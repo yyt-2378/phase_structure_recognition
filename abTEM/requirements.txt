@@ -1,0 +1,12 @@
+numpy
+numba
+pytest
+scipy
+h5py
+matplotlib
+ase
+imageio
+ipywidgets
+tqdm
+pyfftw
+psutil

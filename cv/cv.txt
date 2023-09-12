@@ -1,0 +1,10 @@
+先看所有cif中一共有哪几种原子
+每个原子查阅相对半径，匹配像素。
+b面
+一个原子大概两个像素点
+
+scale_xz = 4
+scale_r = 6.00
+
+先在ms中import打开为xrd格式，build-symmetry-supercell-505/303,file-export-cif
+再用vesta打开cif，检查一下带入到代码中。  
