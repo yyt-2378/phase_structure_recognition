@@ -8,7 +8,7 @@ data_params:
   data_path: "D:\\project\\deep_learning_recovery\\STEM_VAE_Data"
   train_batch_size: 2
   val_batch_size:  4
-  patch_size: 128
+  patch_size: 64
   num_workers: 0
 
 

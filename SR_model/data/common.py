@@ -8,7 +8,6 @@ import torch
 
 def get_patch(*args, patch_size=64, scale=2, multi=False, input_large=False):
     ih, iw = args[0].shape[:2]
-
     if not input_large:
         p = scale if multi else 1
         tp = p * patch_size
