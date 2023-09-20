@@ -1,5 +1,7 @@
 # Phase_structure_recognition
-You can use OpenMMLab PlayGround, which combined the Segment Anything Model (SAM) with Label-Studio, to semi-automated annotate your electron microscopy images, combine the Segment Anything Model (SAM) with Label-Studio. Just follow the steps below. Users could realize quick marking of images by two methods:Point2Label and Bbox2Label. With Point2Label, users only need to click a point within the object's area to obtain the object's mask and bounding box annotations. With Bbox2Label, users simply annotate the object's bounding box to generate the object's mask. Community users can learn from these methods to improve the efficiency of data annotation.
+You can use OpenMMLab PlayGround, which combined the Segment Anything Model (SAM) with Label-Studio, to semi-automated annotate your electron microscopy images, combine the Segment Anything Model (SAM) with Label-Studio. Just 
+follow the steps below. Users could realize quick marking of images by two methods:Point2Label and Bbox2Label. With Point2Label, users only need to click a point within the object's area to obtain the object's mask and bounding 
+box annotations. With Bbox2Label, users simply annotate the object's bounding box to generate the object's mask. Community users can learn from these methods to improve the efficiency of data annotation.
 ## Environment Setup
 Create a virtual environment by your terminal
 ```
@@ -182,17 +184,131 @@ Start Label-Studio web service:
 label-studio start
 ```
 
-![](https://cdn.vansin.top/picgo20230330132913.png)
-
 Open your browser and visit [http://localhost:8080/](http://localhost:8080/) to see the Label-Studio interface.
-
-![](https://cdn.vansin.top/picgo20230330133118.png)
 
 We will register a user and then create an OpenMMLabPlayGround project.
 PS: Label-Studio's username and password are stored locally. If you encounter a situation where the browser remembers the password but you are unable to log in, please register again.
 
-![](https://cdn.vansin.top/picgo20230330133333.png)
-
 ## Frontend Configuration
 
 ### Import images to be annotated:
+1.Upload
+
+We will download the example Meow Meow images using the method below, click on Data Import to import the cat images that need to be annotated, and then click Save to create the project.
+
+```shell
+cd path/to/playground/label_anything
+mkdir data && cd data
+
+wget https://download.openmmlab.com/mmyolo/data/cat_dataset.zip && unzip cat_dataset.zip
+```
+
+2.Use images stored on the server：
+
+realized through 'Cloud Storages'
+
+① Set environment variables before launch the SAM backend:
+
+```
+export LOCAL_FILES_DOCUMENT_ROOT=path/to/playground/label_anything
+```
+
+② Set environment variables before launch the label studio backend to allow label studio to use local files：
+
+```
+export LABEL_STUDIO_LOCAL_FILES_SERVING_ENABLED=true
+
+export LABEL_STUDIO_LOCAL_FILES_DOCUMENT_ROOT=path/to/playground/label_anything
+```
+
+③ After launching SAM and label studio backend，Create Project first，click on 'Add Source Storage' in Cloud Storage .
+
+Choose 'Local files', write 'Absolute local path'
+
+Click on 'Sync Storage'. Then it can synchronize with the data on the server and use the data on the server for annotation, export and other operations.
+
+### XML configuration
+
+---
+
+Configure Label-Studio keypoint, Mask, and other annotations in Settings/Labeling Interface.
+
+```xml
+<View>
+  <Image name="image" value="$image" zoom="true"/>
+  <KeyPointLabels name="KeyPointLabels" toName="image">
+    <Label value="cat" smart="true" background="#e51515" showInline="true"/>
+    <Label value="person" smart="true" background="#412cdd" showInline="true"/>
+  </KeyPointLabels>
+  <RectangleLabels name="RectangleLabels" toName="image">
+  	<Label value="cat" background="#FF0000"/>
+  	<Label value="person" background="#0d14d3"/>
+  </RectangleLabels>
+  <PolygonLabels name="PolygonLabels" toName="image">
+  	<Label value="cat" background="#FF0000"/>
+  	<Label value="person" background="#0d14d3"/>
+  </PolygonLabels>
+  <BrushLabels name="BrushLabels" toName="image">
+  	<Label value="cat" background="#FF0000"/>
+  	<Label value="person" background="#0d14d3"/>
+  </BrushLabels>
+</View>
+```
+
+In the above XML, we have configured the annotations, where KeyPointLabels are for keypoint annotations, BrushLabels are for Mask annotations, PolygonLabels are for bounding polygon annotations, and RectangleLabels are for rectangle annotations.
+
+This example uses two categories, cat and person. If community users want to add more categories, they need to add the corresponding categories in KeyPointLabels, BrushLabels, PolygonLabels, and RectangleLabels respectively.
+
+Next, copy and add the above XML to Label-Studio, and then click Save.
+
+### Load SAM backend
+
+After that, go to Settings and click Add Model to add the OpenMMLabPlayGround backend inference service. Set the URL http://localhost:8003 for the SAM backend inference service, enable Use for interactive preannotations, and click Validate and Save.
+
+⚠If you are unable to execute successfully at this step, probably due to the long model loading time, which causes the connection to the backend to time out, please re-execute `export ML_TIMEOUT_SETUP=40` (linux) or `set ML_TIMEOUT_SETUP=40` (windows) and restart the `label-studio start` SAM backend reasoning service.
+
+If you see "Connected" as shown below, it means that the backend inference service has been successfully added.
+
+## Start semi-automated annotation.
+
+Click on Label to start annotating.
+
+To use this feature, enable the Auto-Annotation toggle and it is recommended to check the Auto accept annotation suggestions option. Then click the Smart tool on the right side, switch to Point mode, and select the object label you want to annotate from the options below, in this case, choose "cat." If using Bbox2Label, please switch the Smart tool to Rectangle mode instead.
+
+## COCO format dataset export
+
+### Label Studio web export
+
+After submitting all the images, click on export to export the annotated dataset in COCO format, which will generate a compressed file of the annotated dataset. Note: only the bounding box annotations are exported here. If you want to export the instance segmentation annotations, you need to set out_poly=True when starting the SAM backend service.
+
+You can use VS Code to open the extracted folder and see the annotated dataset, which includes the images and the annotated JSON files.
+
+### Label Studio Output Conversion to RLE Format Masks
+
+Since the coco exported by label studio does not support rle instance labeling, it only supports polygon instances.
+
+The polygon instance format is not easy to control the number of points, too much is not easy to fine tune (unlike mask which can be fine tuned with an eraser) and too little area is not accurate.
+
+Here we provide a conversion script to convert the json format of label-studio output to COCO format.
+
+⚠Only items that have been annotated with all images are supported.
+
+```shell
+cd path/to/playground/label_anything
+python tools/convert_to_rle_mask_coco.py --json_file_path path/to/LS_json --out_dir path/to/output/file
+```
+
+--json_file_path Enter the output json from Label studio
+
+--out_dir Output path
+
+After generation the script outputs a list in the terminal that corresponds to the category ids and can be used to copy and fill the config for training.
+
+Under the output path, there are two folders: annotations and images, annotations is the coco format json, and images is the sorted dataset.
+
+```
+Your dataset
+├── annotations
+│   ├── ann.json
+├── images
+```
