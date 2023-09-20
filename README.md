@@ -237,20 +237,20 @@ Configure Label-Studio keypoint, Mask, and other annotations in Settings/Labelin
 <View>
   <Image name="image" value="$image" zoom="true"/>
   <KeyPointLabels name="KeyPointLabels" toName="image">
-    <Label value="cat" smart="true" background="#e51515" showInline="true"/>
-    <Label value="person" smart="true" background="#412cdd" showInline="true"/>
+    <Label value="molecular1" smart="true" background="#e51515" showInline="true"/>
+    <Label value="molecular2" smart="true" background="#412cdd" showInline="true"/>
   </KeyPointLabels>
   <RectangleLabels name="RectangleLabels" toName="image">
-  	<Label value="cat" background="#FF0000"/>
-  	<Label value="person" background="#0d14d3"/>
+  	<Label value="molecular1" background="#FF0000"/>
+  	<Label value="molecular2" background="#0d14d3"/>
   </RectangleLabels>
   <PolygonLabels name="PolygonLabels" toName="image">
-  	<Label value="cat" background="#FF0000"/>
-  	<Label value="person" background="#0d14d3"/>
+  	<Label value="molecular1" background="#FF0000"/>
+  	<Label value="molecular2" background="#0d14d3"/>
   </PolygonLabels>
   <BrushLabels name="BrushLabels" toName="image">
-  	<Label value="cat" background="#FF0000"/>
-  	<Label value="person" background="#0d14d3"/>
+  	<Label value="molecular1" background="#FF0000"/>
+  	<Label value="molecular2" background="#0d14d3"/>
   </BrushLabels>
 </View>
 ```
