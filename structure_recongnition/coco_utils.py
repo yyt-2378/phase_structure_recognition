@@ -166,6 +166,7 @@ class ConvertCocoToBox(object):
 
         return image, target
 
+
 def _coco_remove_images_without_annotations(dataset, cat_list=None):
     def _has_only_empty_bbox(anno):
         return all(any(o <= 1 for o in obj["bbox"][2:]) for obj in anno)
@@ -293,8 +294,8 @@ def get_coco(root, image_set, transforms, mode='instances'):
 
     PATHS = {
         # "trainval": ("trainval", os.path.join("annotations", 'instances_trainval.json')),
-        "test":  ("images", os.path.join("annotations", 'ann.json')),
-        "trainval": ("images", os.path.join("annotations", 'ann.json'))
+        "test":  ("images", os.path.join("annotations", 'annotation.json')),
+        "trainval": ("images", os.path.join("annotations", 'annotation.json'))
     }
 
     t = [ConvertCocoToBox()]
