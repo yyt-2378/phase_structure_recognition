@@ -26,7 +26,7 @@ In summary, follow these key steps:
 - **Data Preprocessing**: Clean, format, and preprocess the data to make it suitable for further analysis.
 - **Labeling**: Annotate the dataset with detailed labels and relevant information, which is crucial for training and evaluation.
 
-### Detailed Labeling Instructions
+### 2.Detailed Labeling Instructions
 
 For a thorough guide on labeling content and best practices, consult the [dataset_prepare.md](./stem_dataset/dataset_prepare.md) document. It covers the specifics of labeling data for this project, ensuring consistency and accuracy in the dataset.
 
