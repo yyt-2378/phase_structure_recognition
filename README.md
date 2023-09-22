@@ -31,4 +31,9 @@ In summary, follow these key steps:
 For a thorough guide on labeling content and best practices, consult the [dataset_prepare.md](./stem_dataset/dataset_prepare.md) document. It covers the specifics of labeling data for this project, ensuring consistency and accuracy in the dataset.
 
 Make sure to carefully follow the labeling guidelines to maintain uniformity and enable effective utilization of the methodologies provided by this repository.
+After above steps, change your datasets 
+
+After completing the above steps, place your data into the[stem_dataset](./stem_dataset/) in the specified format
+
+### 3. Train steps
 
