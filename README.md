@@ -12,4 +12,23 @@ This repository focuses on researching and developing methodologies for identify
 - Offers a rich collection of methodologies and algorithm implementations to cater to different scenarios.
 - Open-source, welcoming contributions from the community for further enhancements and improvements.
 
-- 
+## Getting Started
+
+To start working with this repository and utilize the methodologies effectively, follow the steps outlined below.
+
+### 1. Dataset Organization
+
+Before applying the methodologies, it's essential to organize the dataset properly. Refer to the detailed instructions provided in [stem_dataset/dataset_prepare.md](./stem_dataset/dataset_prepare.md) for comprehensive information on how to prepare and structure the dataset.
+
+In summary, follow these key steps:
+
+- **Data Collection**: Gather the electron dose dataset from reliable sources or experiments.
+- **Data Preprocessing**: Clean, format, and preprocess the data to make it suitable for further analysis.
+- **Labeling**: Annotate the dataset with detailed labels and relevant information, which is crucial for training and evaluation.
+
+### Detailed Labeling Instructions
+
+For a thorough guide on labeling content and best practices, consult the [dataset_prepare.md](./stem_dataset/dataset_prepare.md) document. It covers the specifics of labeling data for this project, ensuring consistency and accuracy in the dataset.
+
+Make sure to carefully follow the labeling guidelines to maintain uniformity and enable effective utilization of the methodologies provided by this repository.
+
