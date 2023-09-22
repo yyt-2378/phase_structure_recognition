@@ -33,7 +33,18 @@ For a thorough guide on labeling content and best practices, consult the [datase
 Make sure to carefully follow the labeling guidelines to maintain uniformity and enable effective utilization of the methodologies provided by this repository.
 After above steps, change your datasets 
 
-After completing the above steps, place your data into the[stem_dataset](./stem_dataset/) in the specified format
+After completing the above steps, place your data into the [stem_dataset](./stem_dataset/) in the specified format
 
 ### 3. Train steps
+*********************
+*********************
 
+## How to Contribute
+
+We welcome all individuals interested in electron dose point identification and tracking methodologies to contribute. You can participate by:
+
+1. Submitting Issues to share your thoughts, identify issues, or provide suggestions.
+2. Submitting Pull Requests to collaborate on improving our methodologies and implementations.
+3. Sharing this repository to spread the word and engage more people.
+
+Thank you for your interest and support in our repository!
