@@ -1,6 +1,6 @@
 # Electron Dose Point Identification and Tracking Methodology Repository
 
-This repository is dedicated to the development of methodologies for point identification and tracking in both low and high electron doses.
+STEM image Point Identification and detect Methodology Repository.
 
 ## Repository Overview
 
