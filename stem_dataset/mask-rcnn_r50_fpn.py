@@ -1,5 +1,5 @@
 dataset_type = 'CocoDataset'
-data_root = '.\data/my_set/'
+data_root = '.\data/stem_dataset/'
 train_ann_file = 'annotations/ann.json'
 train_data_prefix = 'images/'
 val_ann_file = 'annotations/ann.json'
