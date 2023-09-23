@@ -36,8 +36,8 @@ After above steps, change your datasets
 After completing the above steps, place your data into the [stem_dataset](./stem_dataset/) in the specified format
 
 ### 3. Train steps
-*********************
-*********************
+********************
+********************
 
 ## How to Contribute
 
