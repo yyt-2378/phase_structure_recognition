@@ -1,10 +1,6 @@
 import random
 import torch
-<<<<<<< HEAD
-
-=======
 from torchvision import transforms
->>>>>>> a94bab3 (modified version)
 from torchvision.transforms import functional as F
 
 
@@ -50,12 +46,9 @@ class RandomHorizontalFlip(object):
 
 class ToTensor(object):
     def __call__(self, image, target):
-<<<<<<< HEAD
         image = F.to_tensor(image)
-=======
         train_transforms = transforms.Compose([transforms.Grayscale(num_output_channels=1),
                                                transforms.ToTensor()])
         image = train_transforms(image)
         image = torch.cat([image, image, image], dim=0)
->>>>>>> a94bab3 (modified version)
         return image, target

@@ -29,7 +29,7 @@ tran = transforms.Compose([
 ])
 
 # 图片文件夹路径
-image_folder = "F:\\deep_learning_recovery\\STEM_VAE_Data\\validation\\img"  # 替换为图片文件夹的路径
+image_folder = "F:\\deep_learning_recovery\\STEM_DCVAESR_Data\\validation\\img"  # 替换为图片文件夹的路径
 
 # 遍历图片文件夹中的图片并进行推断
 for image_file in os.listdir(image_folder):

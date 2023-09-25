@@ -32,7 +32,6 @@ if __name__ == '__main__':
             print(exc)
 
     vae_model_args = config['model_params']
-    eff_batch_size = args.batch_size
 
     # fix the seed for reproducibility
     seed_everything(args.seed, True)

@@ -236,7 +236,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         description=__doc__)
 
-    parser.add_argument('--data-path', default="D:\\project\\deep_learning_recovery\\stem_dataset",
+    parser.add_argument('--data-path', default="D:\\project\\deep_learning_recovery\\faster_rcnn_stem_dataset",
                         help='dataset path')
     parser.add_argument('--dataset', default='coco', help='dataset')
     parser.add_argument('--num-classes', default=1, required=False, help='number of classes in dataset')

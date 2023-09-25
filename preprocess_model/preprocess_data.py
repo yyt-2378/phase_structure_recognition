@@ -30,7 +30,6 @@ class DCVAESRDataLoader(LightningDataModule):
 
     def __init__(
             self,
-            data_path: str,
             train_batch_size: int = 8,
             val_batch_size: int = 8,
             patch_size: Union[int, Sequence[int]] = (256, 256),
@@ -40,7 +39,6 @@ class DCVAESRDataLoader(LightningDataModule):
     ):
         super().__init__()
 
-        self.data_dir = data_path
         self.train_batch_size = train_batch_size
         self.val_batch_size = val_batch_size
         self.patch_size = patch_size
@@ -52,8 +50,9 @@ class DCVAESRDataLoader(LightningDataModule):
         for d in self.args.data_train:
             module_name = d
 
-        self.train_dataset = DCVAESRDataset(self.args, name=module_name)
-        self.val_dataset = DCVAESRDataset(self.args, name=module_name)
+        self.train_dataset = DCVAESRDataset(self.args, name=module_name, split='training')
+        self.val_dataset = DCVAESRDataset(self.args, name=module_name, split='validation')
+        self.test_dataset = DCVAESRDataset(self.args, name=module_name, split='test')
 
     def train_dataloader(self) -> DataLoader:
         return DataLoader(
@@ -62,6 +61,7 @@ class DCVAESRDataLoader(LightningDataModule):
             num_workers=self.num_workers,
             shuffle=True,
             pin_memory=self.pin_memory,
+            drop_last=True,
         )
 
     def val_dataloader(self) -> Union[DataLoader, List[DataLoader]]:
@@ -71,11 +71,12 @@ class DCVAESRDataLoader(LightningDataModule):
             num_workers=self.num_workers,
             shuffle=False,
             pin_memory=self.pin_memory,
+            drop_last=True
         )
 
     def test_dataloader(self) -> Union[DataLoader, List[DataLoader]]:
         return DataLoader(
-            self.val_dataset,
+            self.test_dataset,
             batch_size=144,
             num_workers=self.num_workers,
             shuffle=True,

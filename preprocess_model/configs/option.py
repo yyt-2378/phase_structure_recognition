@@ -21,8 +21,9 @@ parser.add_argument('--seed', type=int, default=1,
 
 # Data specifications
 parser.add_argument('--config', '-c', dest="filename", metavar='FILE', help='path to the config file',
-                        default='D:\\project\\deep_learning_recovery\\preprocess_model\\configs\\vae.yaml')
-parser.add_argument('--dir_data', type=str, default='F:\\SR_dataset',
+                    default='D:\\project\\phase_structure\\phase_structure_recognition\\preprocess_model\\configs\\vae.yaml')
+parser.add_argument('--dir_data', type=str,
+                    default='D:\\project\\phase_structure\\phase_structure_recognition\\STEM_DCVAESR_Data',
                     help='dataset directory')
 parser.add_argument('--dir_demo', type=str, default='../test',
                     help='demo image directory')
@@ -38,8 +39,6 @@ parser.add_argument('--scale', type=str, default='2',
                     help='super resolution scale')
 parser.add_argument('--patch_size', type=int, default=128,
                     help='output patch size')
-parser.add_argument('--lr_patch_size', type=int, default=64,
-                    help='VAE output patch size')
 parser.add_argument('--rgb_range', type=int, default=1,
                     help='maximum value of Gray image')
 parser.add_argument('--n_colors', type=int, default=1,
@@ -94,7 +93,7 @@ parser.add_argument('--test_every', type=int, default=1000,
                     help='do test per every N batches')
 parser.add_argument('--epochs', type=int, default=300,
                     help='number of epochs to train')
-parser.add_argument('--batch_size', type=int, default=16,
+parser.add_argument('--batch_size', type=int, default=2,
                     help='input batch size for training')
 parser.add_argument('--split_batch', type=int, default=1,
                     help='split the batch into smaller chunks')
@@ -104,27 +103,6 @@ parser.add_argument('--test_only', action='store_true',
                     help='set this option to test the model')
 parser.add_argument('--gan_k', type=int, default=1,
                     help='k value for adversarial loss')
-
-# Optimization specifications
-parser.add_argument('--lr', type=float, default=1e-3,
-                    help='learning rate')
-parser.add_argument('--decay', type=str, default='200',
-                    help='learning rate decay type')
-parser.add_argument('--gamma', type=float, default=0.5,
-                    help='learning rate decay factor for step decay')
-parser.add_argument('--optimizer', default='ADAM',
-                    choices=('SGD', 'ADAM', 'RMSprop'),
-                    help='optimizer to use (SGD | ADAM | RMSprop)')
-parser.add_argument('--momentum', type=float, default=0.9,
-                    help='SGD momentum')
-parser.add_argument('--betas', type=tuple, default=(0.9, 0.999),
-                    help='ADAM beta')
-parser.add_argument('--epsilon', type=float, default=1e-8,
-                    help='ADAM epsilon for numerical stability')
-parser.add_argument('--weight_decay', type=float, default=0,
-                    help='weight decay')
-parser.add_argument('--gclip', type=float, default=0,
-                    help='gradient clipping threshold (0 = no clipping)')
 
 # Loss specifications
 parser.add_argument('--loss', type=str, default='1*L1',

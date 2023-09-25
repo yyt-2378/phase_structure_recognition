@@ -1,6 +1,5 @@
 from SR_model.model.edsr import EDSR
 from VAE_module.vae_models.vanilla_vae import VanillaVAE
-from structure_recongnition.model import UNet
 import torch
 import torch.nn as nn
 

@@ -12,11 +12,11 @@ from torchvision import transforms
 
 
 class DCVAESRDataset(data.Dataset):
-    def __init__(self, args, name='', train=True, benchmark=False):
+    def __init__(self, args, name='', split='train', train=True, benchmark=False):
         self.args = args
         self.name = name
         self.train = train
-        self.split = 'train' if train else 'test'
+        self.split = split
         self.do_eval = True
         self.benchmark = benchmark
         self.input_large = True
@@ -90,11 +90,11 @@ class DCVAESRDataset(data.Dataset):
         for f in names_lr:
             filename, _ = os.path.splitext(os.path.basename(f))
             for si, s in enumerate(self.scale):
-                names_hr[si].append(os.path.join(self.dir_hr, filename.split('reconstructed_')[1] + _))
+                names_hr[si].append(os.path.join(self.dir_hr, filename + _))
         return names_hr, names_lr
 
     def _set_filesystem(self, dir_data):
-        self.apath = os.path.join(dir_data, self.name)
+        self.apath = os.path.join(dir_data, self.name, self.split)
         # todo: hr的倍数记录
         self.dir_hr = os.path.join(self.apath, 'HR')
         self.dir_lr = os.path.join(self.apath, 'LR_original')
@@ -115,7 +115,8 @@ class DCVAESRDataset(data.Dataset):
         pair_t = common.np2Tensor(*pair, rgb_range=self.args.rgb_range)
         # pair_t[0]: lr, pair_t[1]: hr
         hr_label = pair_t[1]
-        lr_resize = transforms.Resize(self.args.lr_patch_size)
+        lr_patch_size = int(pair_t[0].shape[1] / self.scale[0])
+        lr_resize = transforms.Resize(lr_patch_size)
         lr_img = lr_resize(pair_t[0])
         lr_label = lr_resize(pair_t[1])
 
@@ -158,7 +159,7 @@ class DCVAESRDataset(data.Dataset):
                 patch_size=self.args.patch_size,
                 scale=scale,
                 multi=(len(self.scale) > 1),
-                input_large=False,
+                input_large=True,
             )
             if not self.args.no_augment:
                 lr, hr = common.augment(lr, hr)
