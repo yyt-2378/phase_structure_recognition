@@ -39,8 +39,20 @@ After completing the above steps, place your data into the [stem_dataset](./stem
 #### 3.1 preprocess model training: 
 To begin training the preprocess model:
 Config Files Modification: Navigate to the preprocess model's folder and access the config sub-directory [configs](./preprocess_model/configs). There, you'll find two essential files that need your attention.
-##### option.py (Python script): This is where you can modify parameters specific to the SRmodel, such as adjusting the depth of the network and the channels used for feature extraction.
+##### option.py: This is where you can modify parameters specific to the SRmodel, such as adjusting the depth of the network and the channels used for feature extraction.
 ##### vae.yaml: This file contains hyperparameters related to the model's training. Adjust settings like batch size, learning rate (lr), manual_seed, and others to align with your training conditions and requirements.
+run [ensemble_model_train.py](./ensemble_model_train.py) for training preprocess model
+
+#### 3.2 Molecule Structure Recognition Model Training
+
+For training the molecule structure recognition model:
+
+1. **Understanding Training Parameters**:
+   - Navigate to the `structure_recognition` folder and inspect the `train.py` file. This Python script provides details on all the training parameters for the model.
+
+2. **Dataset Preparation**:
+   - If you wish to train on your own dataset, ensure that it is structured according to the format found in the `faster_rcnn_stem_dataset` folder. Organize and set up your dataset to match this specific format for a seamless training experience.
+
 
 ## How to Contribute
 
