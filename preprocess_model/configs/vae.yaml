@@ -5,8 +5,8 @@ model_params:
 
 
 data_params:
-  train_batch_size: 2
-  val_batch_size:  2
+  train_batch_size: 64
+  val_batch_size:  32
   patch_size: 128
   num_workers: 0
 
@@ -16,7 +16,7 @@ exp_params:
   weight_decay: 0.0
   scheduler_gamma: 0.95
   kld_weight: 0.00025
-  manual_seed: 1265
+  manual_seed: 22
 
 trainer_params:
   gpus: [0]

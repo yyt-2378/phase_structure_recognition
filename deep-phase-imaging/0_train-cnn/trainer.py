@@ -22,7 +22,7 @@ def train(dataset, model_dir, workers, batch_size, lr, nepoch, dr_rate, Lossfuc)
     '''
     train_loader = torch.utils.data.DataLoader(dataset, batch_size=batch_size, shuffle=True, num_workers=workers, drop_last=True)
 
-    print('Dataset loaded! length of train set is {0}'.format(len(dataset)))
+    print('Dataset loaded! length of trainval set is {0}'.format(len(dataset)))
 
     model = ResidualUNet(dr_rate=dr_rate)                       # 实例化一个网络
     if torch.cuda.is_available():

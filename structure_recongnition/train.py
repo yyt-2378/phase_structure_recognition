@@ -3,7 +3,7 @@ r"""PyTorch Detection Training.
 To run in a multi-gpu environment, use the distributed launcher::
 
     python -m torch.distributed.launch --nproc_per_node=$NGPU --use_env \
-        train.py ... --world-size $NGPU
+        trainval.py ... --world-size $NGPU
 
 The default hyperparameters are tuned for training on 8 gpus and 2 images per gpu.
     --lr 0.02 --batch-size 2 --world-size 8
@@ -12,7 +12,7 @@ If you use different number of gpus, the learning rate should be changed to 0.02
 On top of that, for training Faster/Mask R-CNN, the default hyperparameters are
     --epochs 26 --lr-steps 16 22 --aspect-ratio-group-factor 3
 
-Also, if you train Keypoint R-CNN, the default hyperparameters are
+Also, if you trainval Keypoint R-CNN, the default hyperparameters are
     --epochs 46 --lr-steps 36 43 --aspect-ratio-group-factor 3
 Because the number of images is smaller in the person keypoint subset of COCO,
 the number of epochs should be adapted so that we have the same number of iterations.
@@ -236,7 +236,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         description=__doc__)
 
-    parser.add_argument('--data-path', default="D:\\project\\deep_learning_recovery\\faster_rcnn_stem_dataset",
+    parser.add_argument('--data-path', default="D:\\project\\phase_structure\\phase_structure_recognition\\faster_rcnn_stem_dataset",
                         help='dataset path')
     parser.add_argument('--dataset', default='coco', help='dataset')
     parser.add_argument('--num-classes', default=1, required=False, help='number of classes in dataset')
@@ -248,7 +248,7 @@ if __name__ == "__main__":
                         help='number of total epochs to run')
     parser.add_argument('-j', '--workers', default=2, type=int, metavar='N',
                         help='number of data loading workers (default: 4)')
-    parser.add_argument('--lr', default=0.005, type=float,
+    parser.add_argument('--lr', default=0.01, type=float,
                         help='initial learning rate, 0.02 is the default value for training '
                         'on 8 gpus and 2 images_per_gpu')
     parser.add_argument('--momentum', default=0.9, type=float, metavar='M',

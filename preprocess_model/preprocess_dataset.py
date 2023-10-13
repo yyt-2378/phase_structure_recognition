@@ -12,7 +12,7 @@ from torchvision import transforms
 
 
 class DCVAESRDataset(data.Dataset):
-    def __init__(self, args, name='', split='train', train=True, benchmark=False):
+    def __init__(self, args, name='', split='trainval', train=True, benchmark=False):
         self.args = args
         self.name = name
         self.train = train

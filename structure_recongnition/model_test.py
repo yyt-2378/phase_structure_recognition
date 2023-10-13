@@ -8,13 +8,15 @@ from PIL import Image, ImageDraw
 
 # Load the pre-trained Fast R-CNN model
 model = torchvision.models.detection.__dict__['fasterrcnn_resnet50_fpn'](num_classes=2, pretrained=False)
-state_dict = torch.load('D:\\project\\deep_learning_recovery\\structure_recongnition\\checkpoints\\model_6.pth')
+state_dict = torch.load('F:\\checkpoints\\model_39.pth')
 model.load_state_dict(state_dict['model'])
 model.eval()
 
 # Load an image and its annotations
 # Replace with your own image and annotation loading code
-image_path = "D:\\project\\deep_learning_recovery\\my_set\\training"
+image_path = "D:\\project\\phase_structure\\phase_structure_recognition\\faster_rcnn_stem_dataset\\test"
+output_path = 'F:\\faster_rcnn_output'
+os.makedirs(output_path, exist_ok=True)
 
 for img in os.listdir(image_path):
     # Load the image
@@ -22,24 +24,25 @@ for img in os.listdir(image_path):
     image = Image.open(img_path).convert("RGB")
 
     # Transform the image and annotations
-    transform = transforms.Compose([
-        transforms.ToTensor(),
-    ])
-    image_tensor = transform(image).unsqueeze(0)
+    train_transforms = transforms.Compose([transforms.ToTensor()])
+    image_tensor = train_transforms(image)
+    image_tensor = image_tensor.unsqueeze(0)
 
     # Make predictions
     with torch.no_grad():
         predictions = model(image_tensor)[0]
         print(predictions)
 
-    # Display the image with predicted boxes
+    # Display the image with predicted boxes (if score > 0.5)
     draw = ImageDraw.Draw(image)
-    for box in predictions["boxes"]:
-        draw.rectangle([box[0], box[1], box[2], box[3]], outline="blue")
-        # draw.text((box[0], box[1]), f"Score: {predictions['scores']}", fill="blue")
+    for box, score in zip(predictions["boxes"], predictions["scores"]):
+        if score > 0.5:
+            draw.rectangle([box[0], box[1], box[2], box[3]], outline="blue")
+            draw.text((box[0], box[1]), f"Score: {score:.2f}", fill="blue")
 
-    # Show the image
-    image.show()
+        # Save the image with annotations
+        output_img_path = os.path.join(output_path, img)
+        image.save(output_img_path)
 
 # 准备数据
 # inputs = []

@@ -25,7 +25,7 @@ def build_transform(split, input_size, auto_augment, interpolation, mean, std,
                     horizontal_flip_prob=0.5, vertical_flip_prob=0.5, rotation_range=10,
                     translate=(0.1, 0.1), scale=None, shear=None, erase_prob=0.1):
 
-    if split == "train":
+    if split == "trainval":
         transform_list = [
             transforms.RandomResizedCrop(input_size, interpolation=interpolation),
             transforms.RandomHorizontalFlip(horizontal_flip_prob),
@@ -56,7 +56,7 @@ def get_default_transform_joint():
     std = [0.229, 0.224, 0.225]
     input_size = (128, 128)
     interpolation = InterpolationMode.BILINEAR
-    train_transform = build_transform(split="train", input_size=input_size, auto_augment=False, interpolation=interpolation,
+    train_transform = build_transform(split="trainval", input_size=input_size, auto_augment=False, interpolation=interpolation,
                                       mean=mean, std=std,
                                       horizontal_flip_prob=0.5, vertical_flip_prob=0.5, rotation_range=10,
                                       translate=(0.1, 0.1), scale=None, shear=None, erase_prob=0.1)

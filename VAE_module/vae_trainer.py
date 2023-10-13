@@ -80,15 +80,15 @@ if __name__ == '__main__':
     patch_size = config['data_params']['patch_size']
     num_workers = config['data_params']['num_workers']
 
-    # train params
+    # trainval params
     lr = config['exp_params']['LR']
     weight_decay = config['exp_params']['weight_decay']
     epoch = config['trainer_params']['max_epochs']
 
-    train_dataset = StemDataset(mode='train', dir=data_path)
+    train_dataset = StemDataset(mode='trainval', dir=data_path)
     train_loader = DataLoader(train_dataset, batch_size=train_batch_size, shuffle=True, num_workers=num_workers,
                               drop_last=True)
-    print('Dataset loaded! length of train set is {0}'.format(len(train_dataset)))
+    print('Dataset loaded! length of trainval set is {0}'.format(len(train_dataset)))
     # Example usage
     # Assuming you have a dataset and train_loader ready
     model = VanillaVAE(in_channels=input_channel, latent_dim=latent_dim)

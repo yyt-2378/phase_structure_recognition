@@ -15,7 +15,7 @@ class SRDATA(data.Dataset):
         self.args = args
         self.name = name
         self.train = train
-        self.split = 'train' if train else 'test'
+        self.split = 'trainval' if train else 'test'
         self.do_eval = True
         self.benchmark = benchmark
         self.input_large = (args.model == 'VDSR')
