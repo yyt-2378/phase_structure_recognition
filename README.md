@@ -38,7 +38,7 @@ After completing the above steps, place your data into the [stem_dataset](./stem
 ### 3. Train steps
 #### 3.1 preprocess model training: 
 To begin training the preprocess model:
-Config Files Modification: Navigate to the preprocess model's folder and access the config sub-directory. There, you'll find two essential files that need your attention.
+Config Files Modification: Navigate to the preprocess model's folder and access the config sub-directory[config](./preprocess_model/config). There, you'll find two essential files that need your attention.
 option.py: This is where you can modify parameters specific to the SRmodel, such as adjusting the depth of the network and the channels used for feature extraction.
 vae.yaml: This file contains hyperparameters related to the model's training. Adjust settings like batch size, learning rate (lr), manual_seed, and others to align with your training conditions and requirements.
 
