@@ -16,8 +16,6 @@ parser.add_argument('--cpu', action='store_true',
                     help='use cpu only')
 parser.add_argument('--n_GPUs', type=int, default=1,
                     help='number of GPUs')
-parser.add_argument('--seed', type=int, default=1,
-                    help='random seed')
 
 # Data specifications
 parser.add_argument('--config', '-c', dest="filename", metavar='FILE', help='path to the config file',
@@ -28,11 +26,11 @@ parser.add_argument('--dir_data', type=str,
 parser.add_argument('--dir_demo', type=str, default='../test',
                     help='demo image directory')
 parser.add_argument('--data_train', type=str, default='SRDATA',
-                    help='train dataset name')
+                    help='trainval dataset name')
 parser.add_argument('--data_test', type=str, default='SRDATA',
                     help='test dataset name')
 parser.add_argument('--data_range', type=str, default='1-800/801-810',
-                    help='train/test data range')
+                    help='trainval/test data range')
 parser.add_argument('--ext', type=str, default='sep',
                     help='dataset file extension')
 parser.add_argument('--scale', type=str, default='2',
@@ -58,9 +56,9 @@ parser.add_argument('--pre_train', type=str, default='',
                     help='pre-trained model directory')
 parser.add_argument('--extend', type=str, default='.',
                     help='pre-trained model directory')
-parser.add_argument('--n_resblocks', type=int, default=7,
+parser.add_argument('--n_resblocks', type=int, default=12,
                     help='number of residual blocks')
-parser.add_argument('--n_feats', type=int, default=32,
+parser.add_argument('--n_feats', type=int, default=64,
                     help='number of feature maps')
 parser.add_argument('--res_scale', type=float, default=1,
                     help='residual scaling')
@@ -92,7 +90,7 @@ parser.add_argument('--reset', action='store_true',
 parser.add_argument('--test_every', type=int, default=1000,
                     help='do test per every N batches')
 parser.add_argument('--epochs', type=int, default=300,
-                    help='number of epochs to train')
+                    help='number of epochs to trainval')
 parser.add_argument('--batch_size', type=int, default=2,
                     help='input batch size for training')
 parser.add_argument('--split_batch', type=int, default=1,

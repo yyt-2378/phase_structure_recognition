@@ -1,4 +1,4 @@
-import argparse
+import shutil
 import yaml
 import os
 import numpy as np
@@ -34,8 +34,7 @@ if __name__ == '__main__':
     vae_model_args = config['model_params']
 
     # fix the seed for reproducibility
-    seed_everything(args.seed, True)
-
+    seed_everything(config['exp_params']['manual_seed'], True)
     # define tb_logger
     tb_logger = TensorBoardLogger(save_dir=config['logging_params']['save_dir'], name=config['model_params']['name'], )
     # define model
@@ -52,7 +51,7 @@ if __name__ == '__main__':
     data = DCVAESRDataLoader(**config["data_params"], pin_memory=len(config['trainer_params']['gpus']) != 0)
     data.setup()
 
-    # todo: define train one epoch
+    # todo: define trainval one epoch
     runner = Trainer(logger=tb_logger,
                      callbacks=[
                          LearningRateMonitor(),
@@ -70,3 +69,4 @@ if __name__ == '__main__':
 
     print(f"======= Training {config['model_params']['name']} =======")
     runner.fit(experiment, datamodule=data)
+    shutil.copy(config, tb_logger.log_dir)

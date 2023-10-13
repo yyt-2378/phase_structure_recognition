@@ -32,7 +32,7 @@ class StemDataset(Dataset):
         self.trans = tran  # 转换的属性设置
         self.mode = mode  # 下面打开集的模式
 
-        if self.mode == 'train':
+        if self.mode == 'trainval':
             train_img_dir = dir + '/training/img/'  # 更新地址
             train_label_dir = dir + '/training/label/'
             for img_file in os.listdir(train_img_dir):  # 遍历
@@ -53,7 +53,7 @@ class StemDataset(Dataset):
             print("没有这个mode")
 
     def __getitem__(self, item):  # 获取数据
-        if self.mode == 'train':
+        if self.mode == 'trainval':
             img = Image.open(self.img_list[item])
             label_y = Image.open(self.img_label[item])
             label_tensor = self.trans(label_y)
@@ -97,7 +97,7 @@ class OxfordPets(Dataset):
         self.transforms = transform
         imgs = sorted([f for f in self.data_dir.iterdir() if f.suffix == '.jpg'])
         
-        self.imgs = imgs[:int(len(imgs) * 0.75)] if split == "train" else imgs[int(len(imgs) * 0.75):]
+        self.imgs = imgs[:int(len(imgs) * 0.75)] if split == "trainval" else imgs[int(len(imgs) * 0.75):]
     
     def __len__(self):
         return len(self.imgs)
@@ -160,7 +160,7 @@ class VAEDataset(LightningDataModule):
                                             transforms.ToTensor(),])
         
         self.train_dataset = StemDataset(
-            mode='train',
+            mode='trainval',
             dir=self.data_dir,
             tran=train_transforms,
         )

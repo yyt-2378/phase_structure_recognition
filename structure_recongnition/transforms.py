@@ -46,7 +46,6 @@ class RandomHorizontalFlip(object):
 
 class ToTensor(object):
     def __call__(self, image, target):
-        image = F.to_tensor(image)
         train_transforms = transforms.Compose([transforms.Grayscale(num_output_channels=1),
                                                transforms.ToTensor()])
         image = train_transforms(image)
