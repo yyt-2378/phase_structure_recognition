@@ -5,13 +5,12 @@ import numpy as np
 from pathlib import Path
 
 # preprocess_model
-from preprocess_model.image_preprocess_model import DCVAESR
-from preprocess_model.preprocess_data import DCVAESRDataLoader
+from preprocess_model.image_preprocess_model import DIVAESR
+from preprocess_model.preprocess_data import DIVAESRDataLoader
 from preprocess_model.preprocess_experiment import Prexpriment
 
 # SR model
 from preprocess_model.configs.option import args
-import SR_model.utility as utility
 
 # pytorch_lightning
 from pytorch_lightning import Trainer
@@ -38,7 +37,7 @@ if __name__ == '__main__':
     # define tb_logger
     tb_logger = TensorBoardLogger(save_dir=config['logging_params']['save_dir'], name=config['model_params']['name'], )
     # define model
-    preprocess_model = DCVAESR(sr_model_args, vae_model_args)
+    preprocess_model = DIVAESR(sr_model_args, vae_model_args)
     # 打印整个模型的结构
     print(preprocess_model)
 
@@ -48,7 +47,7 @@ if __name__ == '__main__':
     experiment = Prexpriment(preprocess_model, config['exp_params'])
 
     # todo: define dataset and dataloader
-    data = DCVAESRDataLoader(**config["data_params"], pin_memory=len(config['trainer_params']['gpus']) != 0)
+    data = DIVAESRDataLoader(**config["data_params"], pin_memory=len(config['trainer_params']['gpus']) != 0)
     data.setup()
 
     # todo: define trainval one epoch
@@ -69,4 +68,5 @@ if __name__ == '__main__':
 
     print(f"======= Training {config['model_params']['name']} =======")
     runner.fit(experiment, datamodule=data)
-    shutil.copy(config, tb_logger.log_dir)
+    shutil.copy(args.filename, tb_logger.log_dir)
+    shutil.copy('D:\project\DIVAESR\phase_structure_recognition\preprocess_model\configs\option.py', tb_logger.log_dir)

@@ -5,7 +5,7 @@ import yaml
 import os
 
 # preprocess_model
-from preprocess_model.image_preprocess_model import DCVAESR
+from preprocess_model.image_preprocess_model import DIVAESR
 
 # SR model
 from preprocess_model.configs.option import args
@@ -29,7 +29,7 @@ def process_images(model_weights_path, image_folder, label_folder, image_output_
     vae_model_args = config['model_params']
 
     # Define and load the model
-    preprocess_model = DCVAESR(sr_model_args, vae_model_args)
+    preprocess_model = DIVAESR(sr_model_args, vae_model_args)
     checkpoint = torch.load(model_weights_path, map_location=torch.device('cpu'))
     state_dict = checkpoint['state_dict']
     new_state_dict = {}
@@ -102,7 +102,7 @@ def process_images(model_weights_path, image_folder, label_folder, image_output_
 
 # Example usage
 if __name__ == '__main__':
-    model_weights_folder_path = "D:\\project\\phase_structure\\phase_structure_recognition\\exist_logs\\VanillaVAE"
+    model_weights_folder_path = "D:\\project\\DIVAESR\\phase_structure_recognition\\preprocess_model_weights"
     image_folder_path = "D:\\project\\phase_structure\\phase_structure_recognition\\faster_rcnn_stem_dataset\\test"
     label_folder_path = "D:\\project\\phase_structure\\phase_structure_recognition\\faster_rcnn_stem_dataset\\hr_labels"
     image_output_folder_path = "F:\\test_model"
@@ -111,7 +111,7 @@ if __name__ == '__main__':
     overall_min_error = {}
 
     for model_path in os.listdir(model_weights_folder_path):
-        model_path_checkpoint = os.path.join(model_weights_folder_path, model_path, 'checkpoints', 'last.ckpt')
+        model_path_checkpoint = os.path.join(model_weights_folder_path, model_path)
         image_output_folder_path_sub = os.path.join(image_output_folder_path, model_path)
         os.makedirs(image_output_folder_path_sub, exist_ok=True)
 

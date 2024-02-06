@@ -9,11 +9,11 @@ from torchvision.datasets.folder import default_loader
 from pytorch_lightning import LightningDataModule
 from torch.utils.data import DataLoader, Dataset
 from torchvision import transforms
-from preprocess_model.preprocess_dataset import DCVAESRDataset
+from preprocess_model.preprocess_dataset import DIVAESRDataset
 from PIL import Image
 
 
-class DCVAESRDataLoader(LightningDataModule):
+class DIVAESRDataLoader(LightningDataModule):
     """
     PyTorch Lightning data module
 
@@ -50,9 +50,9 @@ class DCVAESRDataLoader(LightningDataModule):
         for d in self.args.data_train:
             module_name = d
 
-        self.train_dataset = DCVAESRDataset(self.args, name=module_name, split='training')
-        self.val_dataset = DCVAESRDataset(self.args, name=module_name, split='validation')
-        self.test_dataset = DCVAESRDataset(self.args, name=module_name, split='test')
+        self.train_dataset = DIVAESRDataset(self.args, name=module_name, split='training')
+        self.val_dataset = DIVAESRDataset(self.args, name=module_name, split='validation')
+        self.test_dataset = DIVAESRDataset(self.args, name=module_name, split='test')
 
     def train_dataloader(self) -> DataLoader:
         return DataLoader(

@@ -1,5 +1,5 @@
-from SR_model.model.edsr import EDSR
-from VAE_module.vae_models.vanilla_vae import VanillaVAE
+from utils.edsr import EDSR
+from utils.vanilla_vae import VanillaVAE
 import torch
 import torch.nn as nn
 
@@ -10,9 +10,9 @@ def tensor_mean_shift(img: torch.Tensor):
     return img_output
 
 
-class DCVAESR(nn.Module):
+class DIVAESR(nn.Module):
     def __init__(self, sr_args, vae_args):
-        super(DCVAESR, self).__init__()
+        super(DIVAESR, self).__init__()
         self.sr_args = sr_args
         self.vae_in_channels = vae_args['in_channels']
         self.vae_latent_dim = vae_args['latent_dim']
@@ -34,5 +34,4 @@ class DCVAESR(nn.Module):
         sr_output = self.sr_decoder(sr_input)
 
         return [vae_output_noise, vae_output, sr_output, hr_label]
-
 

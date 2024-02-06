@@ -1,0 +1,7306 @@
+{
+    "images": [
+        {
+            "id": 142,
+            "file_name": "molecule_3_r60_blur.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 142,
+            "file_name": "molecule_3_r60_blur.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 142,
+            "file_name": "molecule_3_r60_blur.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 142,
+            "file_name": "molecule_3_r60_blur.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 142,
+            "file_name": "molecule_3_r60_blur.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 146,
+            "file_name": "molecule_3_r75.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 146,
+            "file_name": "molecule_3_r75.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 146,
+            "file_name": "molecule_3_r75.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 146,
+            "file_name": "molecule_3_r75.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 146,
+            "file_name": "molecule_3_r75.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 149,
+            "file_name": "molecule_3_r75_darker.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 149,
+            "file_name": "molecule_3_r75_darker.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 149,
+            "file_name": "molecule_3_r75_darker.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 149,
+            "file_name": "molecule_3_r75_darker.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 149,
+            "file_name": "molecule_3_r75_darker.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 161,
+            "file_name": "molecule_3_r135.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 161,
+            "file_name": "molecule_3_r135.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 161,
+            "file_name": "molecule_3_r135.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 161,
+            "file_name": "molecule_3_r135.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 161,
+            "file_name": "molecule_3_r135.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 161,
+            "file_name": "molecule_3_r135.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 161,
+            "file_name": "molecule_3_r135.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 161,
+            "file_name": "molecule_3_r135.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 161,
+            "file_name": "molecule_3_r135.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 170,
+            "file_name": "molecule_3_r180_fli.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 170,
+            "file_name": "molecule_3_r180_fli.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 170,
+            "file_name": "molecule_3_r180_fli.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 170,
+            "file_name": "molecule_3_r180_fli.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 170,
+            "file_name": "molecule_3_r180_fli.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 425,
+            "file_name": "molecule_10_r60_fli.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 425,
+            "file_name": "molecule_10_r60_fli.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 425,
+            "file_name": "molecule_10_r60_fli.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 425,
+            "file_name": "molecule_10_r60_fli.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 425,
+            "file_name": "molecule_10_r60_fli.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 704,
+            "file_name": "molecule_17_r60_darker.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 704,
+            "file_name": "molecule_17_r60_darker.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 704,
+            "file_name": "molecule_17_r60_darker.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 704,
+            "file_name": "molecule_17_r60_darker.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 711,
+            "file_name": "molecule_17_r90.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 711,
+            "file_name": "molecule_17_r90.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 711,
+            "file_name": "molecule_17_r90.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 711,
+            "file_name": "molecule_17_r90.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 711,
+            "file_name": "molecule_17_r90.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 725,
+            "file_name": "molecule_17_r135_fli.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 725,
+            "file_name": "molecule_17_r135_fli.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 725,
+            "file_name": "molecule_17_r135_fli.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 725,
+            "file_name": "molecule_17_r135_fli.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 725,
+            "file_name": "molecule_17_r135_fli.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 725,
+            "file_name": "molecule_17_r135_fli.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 725,
+            "file_name": "molecule_17_r135_fli.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 725,
+            "file_name": "molecule_17_r135_fli.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 725,
+            "file_name": "molecule_17_r135_fli.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 726,
+            "file_name": "molecule_17_r180.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 726,
+            "file_name": "molecule_17_r180.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 726,
+            "file_name": "molecule_17_r180.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 726,
+            "file_name": "molecule_17_r180.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 726,
+            "file_name": "molecule_17_r180.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 727,
+            "file_name": "molecule_17_r180_blur.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 727,
+            "file_name": "molecule_17_r180_blur.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 727,
+            "file_name": "molecule_17_r180_blur.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 727,
+            "file_name": "molecule_17_r180_blur.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 727,
+            "file_name": "molecule_17_r180_blur.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 976,
+            "file_name": "molecule_24_r45.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 976,
+            "file_name": "molecule_24_r45.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 976,
+            "file_name": "molecule_24_r45.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 976,
+            "file_name": "molecule_24_r45.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 976,
+            "file_name": "molecule_24_r45.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 976,
+            "file_name": "molecule_24_r45.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 976,
+            "file_name": "molecule_24_r45.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 976,
+            "file_name": "molecule_24_r45.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 976,
+            "file_name": "molecule_24_r45.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 982,
+            "file_name": "molecule_24_r60_blur.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 982,
+            "file_name": "molecule_24_r60_blur.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 982,
+            "file_name": "molecule_24_r60_blur.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 982,
+            "file_name": "molecule_24_r60_blur.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 982,
+            "file_name": "molecule_24_r60_blur.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 988,
+            "file_name": "molecule_24_r75_brighter.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 988,
+            "file_name": "molecule_24_r75_brighter.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 988,
+            "file_name": "molecule_24_r75_brighter.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 988,
+            "file_name": "molecule_24_r75_brighter.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 988,
+            "file_name": "molecule_24_r75_brighter.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 993,
+            "file_name": "molecule_24_r90_brighter.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 993,
+            "file_name": "molecule_24_r90_brighter.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 993,
+            "file_name": "molecule_24_r90_brighter.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 993,
+            "file_name": "molecule_24_r90_brighter.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 993,
+            "file_name": "molecule_24_r90_brighter.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 1004,
+            "file_name": "molecule_24_r135_darker.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 1004,
+            "file_name": "molecule_24_r135_darker.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 1004,
+            "file_name": "molecule_24_r135_darker.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 1004,
+            "file_name": "molecule_24_r135_darker.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 1004,
+            "file_name": "molecule_24_r135_darker.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 1004,
+            "file_name": "molecule_24_r135_darker.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 1004,
+            "file_name": "molecule_24_r135_darker.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 1004,
+            "file_name": "molecule_24_r135_darker.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 1004,
+            "file_name": "molecule_24_r135_darker.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 1259,
+            "file_name": "molecule_31_r45_darker.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 1259,
+            "file_name": "molecule_31_r45_darker.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 1259,
+            "file_name": "molecule_31_r45_darker.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 1259,
+            "file_name": "molecule_31_r45_darker.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 1259,
+            "file_name": "molecule_31_r45_darker.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 1259,
+            "file_name": "molecule_31_r45_darker.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 1259,
+            "file_name": "molecule_31_r45_darker.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 1259,
+            "file_name": "molecule_31_r45_darker.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 1261,
+            "file_name": "molecule_31_r60.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 1261,
+            "file_name": "molecule_31_r60.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 1261,
+            "file_name": "molecule_31_r60.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 1261,
+            "file_name": "molecule_31_r60.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 1261,
+            "file_name": "molecule_31_r60.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 1266,
+            "file_name": "molecule_31_r75.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 1266,
+            "file_name": "molecule_31_r75.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 1266,
+            "file_name": "molecule_31_r75.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 1266,
+            "file_name": "molecule_31_r75.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 1266,
+            "file_name": "molecule_31_r75.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 1281,
+            "file_name": "molecule_31_r135.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 1281,
+            "file_name": "molecule_31_r135.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 1281,
+            "file_name": "molecule_31_r135.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 1281,
+            "file_name": "molecule_31_r135.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 1281,
+            "file_name": "molecule_31_r135.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 1281,
+            "file_name": "molecule_31_r135.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 1281,
+            "file_name": "molecule_31_r135.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 1281,
+            "file_name": "molecule_31_r135.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 1282,
+            "file_name": "molecule_31_r135_blur.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 1282,
+            "file_name": "molecule_31_r135_blur.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 1282,
+            "file_name": "molecule_31_r135_blur.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 1282,
+            "file_name": "molecule_31_r135_blur.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 1282,
+            "file_name": "molecule_31_r135_blur.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 1282,
+            "file_name": "molecule_31_r135_blur.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 1282,
+            "file_name": "molecule_31_r135_blur.png",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "id": 1282,
+            "file_name": "molecule_31_r135_blur.png",
+            "width": 128,
+            "height": 128
+        }
+    ],
+    "annotations": [
+        {
+            "id": 589,
+            "image_id": 142,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    4204,
+                    3,
+                    120,
+                    10,
+                    118,
+                    10,
+                    117,
+                    12,
+                    116,
+                    13,
+                    115,
+                    14,
+                    113,
+                    15,
+                    113,
+                    15,
+                    112,
+                    16,
+                    112,
+                    16,
+                    113,
+                    14,
+                    116,
+                    12,
+                    117,
+                    10,
+                    118,
+                    10,
+                    118,
+                    5,
+                    10387
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                32,
+                100,
+                15,
+                16
+            ],
+            "area": 240,
+            "iscrowd": 0
+        },
+        {
+            "id": 590,
+            "image_id": 142,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    4204,
+                    3,
+                    120,
+                    10,
+                    118,
+                    10,
+                    117,
+                    12,
+                    116,
+                    13,
+                    115,
+                    14,
+                    113,
+                    15,
+                    113,
+                    15,
+                    112,
+                    16,
+                    112,
+                    16,
+                    113,
+                    14,
+                    116,
+                    12,
+                    117,
+                    10,
+                    118,
+                    10,
+                    118,
+                    5,
+                    10387
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                32,
+                100,
+                15,
+                16
+            ],
+            "area": 240,
+            "iscrowd": 0
+        },
+        {
+            "id": 591,
+            "image_id": 142,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    7614,
+                    3,
+                    123,
+                    6,
+                    117,
+                    11,
+                    117,
+                    12,
+                    116,
+                    13,
+                    115,
+                    14,
+                    113,
+                    15,
+                    112,
+                    16,
+                    112,
+                    16,
+                    112,
+                    15,
+                    113,
+                    15,
+                    115,
+                    13,
+                    117,
+                    11,
+                    117,
+                    10,
+                    118,
+                    5,
+                    6978
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                59,
+                53,
+                15,
+                16
+            ],
+            "area": 240,
+            "iscrowd": 0
+        },
+        {
+            "id": 592,
+            "image_id": 142,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    7614,
+                    3,
+                    123,
+                    6,
+                    117,
+                    11,
+                    117,
+                    12,
+                    116,
+                    13,
+                    115,
+                    14,
+                    113,
+                    15,
+                    112,
+                    16,
+                    112,
+                    16,
+                    112,
+                    15,
+                    113,
+                    15,
+                    115,
+                    13,
+                    117,
+                    11,
+                    117,
+                    10,
+                    118,
+                    5,
+                    6978
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                59,
+                53,
+                15,
+                16
+            ],
+            "area": 240,
+            "iscrowd": 0
+        },
+        {
+            "id": 593,
+            "image_id": 142,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    11149,
+                    5,
+                    118,
+                    10,
+                    118,
+                    11,
+                    117,
+                    13,
+                    115,
+                    15,
+                    112,
+                    16,
+                    111,
+                    17,
+                    111,
+                    16,
+                    112,
+                    16,
+                    112,
+                    15,
+                    114,
+                    14,
+                    116,
+                    12,
+                    116,
+                    11,
+                    117,
+                    6,
+                    3569
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                87,
+                6,
+                14,
+                17
+            ],
+            "area": 238,
+            "iscrowd": 0
+        },
+        {
+            "id": 609,
+            "image_id": 146,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    5870,
+                    4,
+                    123,
+                    9,
+                    119,
+                    10,
+                    117,
+                    11,
+                    116,
+                    12,
+                    115,
+                    14,
+                    114,
+                    15,
+                    113,
+                    15,
+                    114,
+                    14,
+                    115,
+                    12,
+                    116,
+                    11,
+                    117,
+                    10,
+                    119,
+                    9,
+                    8970
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                45,
+                106,
+                13,
+                15
+            ],
+            "area": 195,
+            "iscrowd": 0
+        },
+        {
+            "id": 610,
+            "image_id": 146,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    5870,
+                    4,
+                    123,
+                    9,
+                    119,
+                    10,
+                    117,
+                    11,
+                    116,
+                    12,
+                    115,
+                    14,
+                    114,
+                    15,
+                    113,
+                    15,
+                    114,
+                    14,
+                    115,
+                    12,
+                    116,
+                    11,
+                    117,
+                    10,
+                    119,
+                    9,
+                    8970
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                45,
+                106,
+                13,
+                15
+            ],
+            "area": 195,
+            "iscrowd": 0
+        },
+        {
+            "id": 611,
+            "image_id": 146,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    7610,
+                    1,
+                    125,
+                    10,
+                    118,
+                    11,
+                    117,
+                    11,
+                    115,
+                    13,
+                    114,
+                    15,
+                    113,
+                    15,
+                    113,
+                    16,
+                    113,
+                    14,
+                    116,
+                    12,
+                    116,
+                    10,
+                    118,
+                    10,
+                    118,
+                    10,
+                    7230
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                59,
+                53,
+                13,
+                16
+            ],
+            "area": 208,
+            "iscrowd": 0
+        },
+        {
+            "id": 612,
+            "image_id": 146,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    7610,
+                    1,
+                    125,
+                    10,
+                    118,
+                    11,
+                    117,
+                    11,
+                    115,
+                    13,
+                    114,
+                    15,
+                    113,
+                    15,
+                    113,
+                    16,
+                    113,
+                    14,
+                    116,
+                    12,
+                    116,
+                    10,
+                    118,
+                    10,
+                    118,
+                    10,
+                    7230
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                59,
+                53,
+                13,
+                16
+            ],
+            "area": 208,
+            "iscrowd": 0
+        },
+        {
+            "id": 613,
+            "image_id": 146,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    9476,
+                    9,
+                    119,
+                    9,
+                    118,
+                    11,
+                    116,
+                    12,
+                    114,
+                    15,
+                    113,
+                    16,
+                    112,
+                    16,
+                    113,
+                    15,
+                    115,
+                    12,
+                    116,
+                    11,
+                    117,
+                    11,
+                    117,
+                    5,
+                    1,
+                    4,
+                    5491
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                74,
+                0,
+                12,
+                16
+            ],
+            "area": 192,
+            "iscrowd": 0
+        },
+        {
+            "id": 624,
+            "image_id": 149,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    5870,
+                    3,
+                    124,
+                    9,
+                    119,
+                    10,
+                    117,
+                    11,
+                    116,
+                    12,
+                    115,
+                    14,
+                    114,
+                    15,
+                    113,
+                    15,
+                    114,
+                    14,
+                    115,
+                    12,
+                    116,
+                    10,
+                    118,
+                    10,
+                    119,
+                    9,
+                    8970
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                45,
+                106,
+                13,
+                15
+            ],
+            "area": 195,
+            "iscrowd": 0
+        },
+        {
+            "id": 625,
+            "image_id": 149,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    5870,
+                    3,
+                    124,
+                    9,
+                    119,
+                    10,
+                    117,
+                    11,
+                    116,
+                    12,
+                    115,
+                    14,
+                    114,
+                    15,
+                    113,
+                    15,
+                    114,
+                    14,
+                    115,
+                    12,
+                    116,
+                    10,
+                    118,
+                    10,
+                    119,
+                    9,
+                    8970
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                45,
+                106,
+                13,
+                15
+            ],
+            "area": 195,
+            "iscrowd": 0
+        },
+        {
+            "id": 626,
+            "image_id": 149,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    7610,
+                    1,
+                    125,
+                    10,
+                    118,
+                    11,
+                    117,
+                    11,
+                    115,
+                    13,
+                    114,
+                    15,
+                    113,
+                    16,
+                    112,
+                    16,
+                    113,
+                    15,
+                    115,
+                    12,
+                    116,
+                    10,
+                    118,
+                    10,
+                    118,
+                    10,
+                    7230
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                59,
+                53,
+                13,
+                16
+            ],
+            "area": 208,
+            "iscrowd": 0
+        },
+        {
+            "id": 627,
+            "image_id": 149,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    7610,
+                    1,
+                    125,
+                    10,
+                    118,
+                    11,
+                    117,
+                    11,
+                    115,
+                    13,
+                    114,
+                    15,
+                    113,
+                    16,
+                    112,
+                    16,
+                    113,
+                    15,
+                    115,
+                    12,
+                    116,
+                    10,
+                    118,
+                    10,
+                    118,
+                    10,
+                    7230
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                59,
+                53,
+                13,
+                16
+            ],
+            "area": 208,
+            "iscrowd": 0
+        },
+        {
+            "id": 628,
+            "image_id": 149,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    9476,
+                    9,
+                    119,
+                    10,
+                    117,
+                    11,
+                    116,
+                    12,
+                    114,
+                    16,
+                    112,
+                    16,
+                    112,
+                    16,
+                    113,
+                    15,
+                    115,
+                    12,
+                    116,
+                    11,
+                    117,
+                    11,
+                    117,
+                    4,
+                    2,
+                    4,
+                    5491
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                74,
+                0,
+                12,
+                16
+            ],
+            "area": 192,
+            "iscrowd": 0
+        },
+        {
+            "id": 684,
+            "image_id": 161,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    114,
+                    12,
+                    116,
+                    12,
+                    115,
+                    14,
+                    114,
+                    14,
+                    113,
+                    16,
+                    112,
+                    15,
+                    114,
+                    14,
+                    115,
+                    12,
+                    116,
+                    12,
+                    116,
+                    11,
+                    117,
+                    11,
+                    118,
+                    9,
+                    14852
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                0,
+                112,
+                12,
+                16
+            ],
+            "area": 192,
+            "iscrowd": 0
+        },
+        {
+            "id": 685,
+            "image_id": 161,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    114,
+                    12,
+                    116,
+                    12,
+                    115,
+                    14,
+                    114,
+                    14,
+                    113,
+                    16,
+                    112,
+                    15,
+                    114,
+                    14,
+                    115,
+                    12,
+                    116,
+                    12,
+                    116,
+                    11,
+                    117,
+                    11,
+                    118,
+                    9,
+                    14852
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                0,
+                112,
+                12,
+                16
+            ],
+            "area": 192,
+            "iscrowd": 0
+        },
+        {
+            "id": 686,
+            "image_id": 161,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    12129,
+                    5,
+                    122,
+                    9,
+                    119,
+                    9,
+                    119,
+                    9,
+                    117,
+                    11,
+                    117,
+                    6,
+                    2,
+                    5,
+                    115,
+                    6,
+                    2,
+                    5,
+                    115,
+                    6,
+                    2,
+                    5,
+                    116,
+                    12,
+                    117,
+                    11,
+                    117,
+                    9,
+                    119,
+                    9,
+                    119,
+                    9,
+                    124,
+                    3,
+                    2584
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                94,
+                94,
+                14,
+                13
+            ],
+            "area": 182,
+            "iscrowd": 0
+        },
+        {
+            "id": 687,
+            "image_id": 161,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    12129,
+                    5,
+                    122,
+                    9,
+                    119,
+                    9,
+                    119,
+                    9,
+                    117,
+                    11,
+                    117,
+                    6,
+                    2,
+                    5,
+                    115,
+                    6,
+                    2,
+                    5,
+                    115,
+                    6,
+                    2,
+                    5,
+                    116,
+                    12,
+                    117,
+                    11,
+                    117,
+                    9,
+                    119,
+                    9,
+                    119,
+                    9,
+                    124,
+                    3,
+                    2584
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                94,
+                94,
+                14,
+                13
+            ],
+            "area": 182,
+            "iscrowd": 0
+        },
+        {
+            "id": 688,
+            "image_id": 161,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    7097,
+                    9,
+                    119,
+                    10,
+                    118,
+                    10,
+                    118,
+                    11,
+                    116,
+                    12,
+                    115,
+                    13,
+                    115,
+                    14,
+                    114,
+                    14,
+                    115,
+                    13,
+                    116,
+                    12,
+                    116,
+                    12,
+                    116,
+                    11,
+                    117,
+                    11,
+                    118,
+                    9,
+                    123,
+                    4,
+                    7486
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                55,
+                55,
+                15,
+                14
+            ],
+            "area": 210,
+            "iscrowd": 0
+        },
+        {
+            "id": 689,
+            "image_id": 161,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    7097,
+                    9,
+                    119,
+                    10,
+                    118,
+                    10,
+                    118,
+                    11,
+                    116,
+                    12,
+                    115,
+                    13,
+                    115,
+                    14,
+                    114,
+                    14,
+                    115,
+                    13,
+                    116,
+                    12,
+                    116,
+                    12,
+                    116,
+                    11,
+                    117,
+                    11,
+                    118,
+                    9,
+                    123,
+                    4,
+                    7486
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                55,
+                55,
+                15,
+                14
+            ],
+            "area": 210,
+            "iscrowd": 0
+        },
+        {
+            "id": 690,
+            "image_id": 161,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    2195,
+                    9,
+                    119,
+                    9,
+                    119,
+                    9,
+                    118,
+                    10,
+                    117,
+                    11,
+                    116,
+                    14,
+                    114,
+                    14,
+                    115,
+                    13,
+                    116,
+                    12,
+                    117,
+                    11,
+                    117,
+                    10,
+                    118,
+                    9,
+                    119,
+                    9,
+                    123,
+                    5,
+                    12516
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                17,
+                16,
+                14,
+                14
+            ],
+            "area": 196,
+            "iscrowd": 0
+        },
+        {
+            "id": 691,
+            "image_id": 161,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    2195,
+                    9,
+                    119,
+                    9,
+                    119,
+                    9,
+                    118,
+                    10,
+                    117,
+                    11,
+                    116,
+                    14,
+                    114,
+                    14,
+                    115,
+                    13,
+                    116,
+                    12,
+                    117,
+                    11,
+                    117,
+                    10,
+                    118,
+                    9,
+                    119,
+                    9,
+                    123,
+                    5,
+                    12516
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                17,
+                16,
+                14,
+                14
+            ],
+            "area": 196,
+            "iscrowd": 0
+        },
+        {
+            "id": 692,
+            "image_id": 161,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    14464,
+                    8,
+                    120,
+                    9,
+                    119,
+                    9,
+                    119,
+                    9,
+                    119,
+                    10,
+                    118,
+                    11,
+                    117,
+                    12,
+                    116,
+                    12,
+                    116,
+                    12,
+                    116,
+                    11,
+                    117,
+                    10,
+                    118,
+                    9,
+                    119,
+                    9,
+                    119,
+                    9,
+                    119,
+                    2,
+                    126
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                113,
+                0,
+                15,
+                12
+            ],
+            "area": 180,
+            "iscrowd": 0
+        },
+        {
+            "id": 747,
+            "image_id": 170,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    702,
+                    1,
+                    126,
+                    4,
+                    2,
+                    1,
+                    120,
+                    9,
+                    120,
+                    8,
+                    119,
+                    9,
+                    117,
+                    4,
+                    5,
+                    2,
+                    117,
+                    4,
+                    6,
+                    2,
+                    116,
+                    4,
+                    5,
+                    4,
+                    116,
+                    3,
+                    5,
+                    4,
+                    117,
+                    3,
+                    4,
+                    4,
+                    117,
+                    4,
+                    2,
+                    2,
+                    1,
+                    1,
+                    118,
+                    8,
+                    120,
+                    9,
+                    124,
+                    3,
+                    14012
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                5,
+                58,
+                14,
+                13
+            ],
+            "area": 182,
+            "iscrowd": 0
+        },
+        {
+            "id": 748,
+            "image_id": 170,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    702,
+                    1,
+                    126,
+                    4,
+                    2,
+                    1,
+                    120,
+                    9,
+                    120,
+                    8,
+                    119,
+                    9,
+                    117,
+                    4,
+                    5,
+                    2,
+                    117,
+                    4,
+                    6,
+                    2,
+                    116,
+                    4,
+                    5,
+                    4,
+                    116,
+                    3,
+                    5,
+                    4,
+                    117,
+                    3,
+                    4,
+                    4,
+                    117,
+                    4,
+                    2,
+                    2,
+                    1,
+                    1,
+                    118,
+                    8,
+                    120,
+                    9,
+                    124,
+                    3,
+                    14012
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                5,
+                58,
+                14,
+                13
+            ],
+            "area": 182,
+            "iscrowd": 0
+        },
+        {
+            "id": 749,
+            "image_id": 170,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    7614,
+                    1,
+                    126,
+                    4,
+                    124,
+                    8,
+                    120,
+                    8,
+                    119,
+                    4,
+                    1,
+                    4,
+                    117,
+                    4,
+                    5,
+                    1,
+                    118,
+                    4,
+                    124,
+                    4,
+                    7,
+                    1,
+                    117,
+                    3,
+                    6,
+                    3,
+                    118,
+                    2,
+                    4,
+                    4,
+                    117,
+                    4,
+                    4,
+                    3,
+                    117,
+                    4,
+                    2,
+                    2,
+                    120,
+                    4,
+                    1,
+                    3,
+                    124,
+                    5,
+                    124,
+                    3,
+                    6972
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                59,
+                58,
+                15,
+                13
+            ],
+            "area": 195,
+            "iscrowd": 0
+        },
+        {
+            "id": 750,
+            "image_id": 170,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    7614,
+                    1,
+                    126,
+                    4,
+                    124,
+                    8,
+                    120,
+                    8,
+                    119,
+                    4,
+                    1,
+                    4,
+                    117,
+                    4,
+                    5,
+                    1,
+                    118,
+                    4,
+                    124,
+                    4,
+                    7,
+                    1,
+                    117,
+                    3,
+                    6,
+                    3,
+                    118,
+                    2,
+                    4,
+                    4,
+                    117,
+                    4,
+                    4,
+                    3,
+                    117,
+                    4,
+                    2,
+                    2,
+                    120,
+                    4,
+                    1,
+                    3,
+                    124,
+                    5,
+                    124,
+                    3,
+                    6972
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                59,
+                58,
+                15,
+                13
+            ],
+            "area": 195,
+            "iscrowd": 0
+        },
+        {
+            "id": 751,
+            "image_id": 170,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    14526,
+                    1,
+                    126,
+                    4,
+                    123,
+                    5,
+                    1,
+                    2,
+                    120,
+                    9,
+                    118,
+                    11,
+                    116,
+                    6,
+                    1,
+                    5,
+                    116,
+                    6,
+                    2,
+                    3,
+                    117,
+                    4,
+                    6,
+                    2,
+                    116,
+                    4,
+                    5,
+                    4,
+                    117,
+                    1,
+                    6,
+                    4,
+                    117,
+                    4,
+                    3,
+                    4,
+                    117,
+                    10,
+                    117,
+                    9,
+                    120,
+                    9,
+                    119,
+                    8,
+                    60
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                113,
+                58,
+                15,
+                13
+            ],
+            "area": 195,
+            "iscrowd": 0
+        },
+        {
+            "id": 2178,
+            "image_id": 425,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    10478,
+                    1,
+                    124,
+                    5,
+                    123,
+                    5,
+                    119,
+                    10,
+                    117,
+                    14,
+                    114,
+                    15,
+                    113,
+                    15,
+                    114,
+                    14,
+                    113,
+                    14,
+                    114,
+                    14,
+                    114,
+                    14,
+                    115,
+                    13,
+                    118,
+                    10,
+                    118,
+                    10,
+                    118,
+                    6,
+                    124,
+                    1,
+                    3987
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                81,
+                102,
+                16,
+                15
+            ],
+            "area": 240,
+            "iscrowd": 0
+        },
+        {
+            "id": 2179,
+            "image_id": 425,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    10478,
+                    1,
+                    124,
+                    5,
+                    123,
+                    5,
+                    119,
+                    10,
+                    117,
+                    14,
+                    114,
+                    15,
+                    113,
+                    15,
+                    114,
+                    14,
+                    113,
+                    14,
+                    114,
+                    14,
+                    114,
+                    14,
+                    115,
+                    13,
+                    118,
+                    10,
+                    118,
+                    10,
+                    118,
+                    6,
+                    124,
+                    1,
+                    3987
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                81,
+                102,
+                16,
+                15
+            ],
+            "area": 240,
+            "iscrowd": 0
+        },
+        {
+            "id": 2180,
+            "image_id": 425,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    6974,
+                    3,
+                    124,
+                    5,
+                    121,
+                    7,
+                    118,
+                    12,
+                    116,
+                    13,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    13,
+                    117,
+                    11,
+                    118,
+                    9,
+                    119,
+                    5,
+                    124,
+                    3,
+                    7489
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                54,
+                56,
+                16,
+                13
+            ],
+            "area": 208,
+            "iscrowd": 0
+        },
+        {
+            "id": 2181,
+            "image_id": 425,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    6974,
+                    3,
+                    124,
+                    5,
+                    121,
+                    7,
+                    118,
+                    12,
+                    116,
+                    13,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    13,
+                    117,
+                    11,
+                    118,
+                    9,
+                    119,
+                    5,
+                    124,
+                    3,
+                    7489
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                54,
+                56,
+                16,
+                13
+            ],
+            "area": 208,
+            "iscrowd": 0
+        },
+        {
+            "id": 2182,
+            "image_id": 425,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    3471,
+                    3,
+                    124,
+                    5,
+                    119,
+                    2,
+                    2,
+                    5,
+                    118,
+                    12,
+                    115,
+                    14,
+                    114,
+                    15,
+                    114,
+                    14,
+                    114,
+                    13,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    13,
+                    116,
+                    12,
+                    118,
+                    9,
+                    120,
+                    6,
+                    122,
+                    4,
+                    11119
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                27,
+                8,
+                15,
+                15
+            ],
+            "area": 225,
+            "iscrowd": 0
+        },
+        {
+            "id": 3653,
+            "image_id": 704,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    4080,
+                    3,
+                    122,
+                    6,
+                    122,
+                    6,
+                    122,
+                    6,
+                    122,
+                    6,
+                    121,
+                    7,
+                    120,
+                    8,
+                    120,
+                    8,
+                    120,
+                    7,
+                    121,
+                    6,
+                    122,
+                    6,
+                    122,
+                    6,
+                    122,
+                    4,
+                    126,
+                    1,
+                    10642
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                31,
+                107,
+                14,
+                8
+            ],
+            "area": 112,
+            "iscrowd": 0
+        },
+        {
+            "id": 3654,
+            "image_id": 704,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    4080,
+                    3,
+                    122,
+                    6,
+                    122,
+                    6,
+                    122,
+                    6,
+                    122,
+                    6,
+                    121,
+                    7,
+                    120,
+                    8,
+                    120,
+                    8,
+                    120,
+                    7,
+                    121,
+                    6,
+                    122,
+                    6,
+                    122,
+                    6,
+                    122,
+                    4,
+                    126,
+                    1,
+                    10642
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                31,
+                107,
+                14,
+                8
+            ],
+            "area": 112,
+            "iscrowd": 0
+        },
+        {
+            "id": 3655,
+            "image_id": 704,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    7489,
+                    3,
+                    122,
+                    7,
+                    121,
+                    7,
+                    121,
+                    7,
+                    121,
+                    7,
+                    121,
+                    7,
+                    119,
+                    9,
+                    118,
+                    9,
+                    119,
+                    7,
+                    121,
+                    7,
+                    122,
+                    6,
+                    122,
+                    6,
+                    122,
+                    5,
+                    124,
+                    3,
+                    7232
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                58,
+                59,
+                14,
+                10
+            ],
+            "area": 140,
+            "iscrowd": 0
+        },
+        {
+            "id": 3656,
+            "image_id": 704,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    11024,
+                    5,
+                    122,
+                    6,
+                    122,
+                    6,
+                    122,
+                    7,
+                    120,
+                    8,
+                    119,
+                    9,
+                    119,
+                    8,
+                    119,
+                    8,
+                    121,
+                    6,
+                    122,
+                    6,
+                    122,
+                    6,
+                    122,
+                    6,
+                    122,
+                    4,
+                    3823
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                86,
+                12,
+                13,
+                10
+            ],
+            "area": 130,
+            "iscrowd": 0
+        },
+        {
+            "id": 3686,
+            "image_id": 711,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    7670,
+                    4,
+                    124,
+                    7,
+                    121,
+                    7,
+                    117,
+                    11,
+                    117,
+                    11,
+                    117,
+                    10,
+                    118,
+                    9,
+                    117,
+                    11,
+                    117,
+                    8,
+                    120,
+                    7,
+                    121,
+                    7,
+                    7433
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                59,
+                112,
+                11,
+                13
+            ],
+            "area": 143,
+            "iscrowd": 0
+        },
+        {
+            "id": 3687,
+            "image_id": 711,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    7670,
+                    4,
+                    124,
+                    7,
+                    121,
+                    7,
+                    117,
+                    11,
+                    117,
+                    11,
+                    117,
+                    10,
+                    118,
+                    9,
+                    117,
+                    11,
+                    117,
+                    8,
+                    120,
+                    7,
+                    121,
+                    7,
+                    7433
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                59,
+                112,
+                11,
+                13
+            ],
+            "area": 143,
+            "iscrowd": 0
+        },
+        {
+            "id": 3688,
+            "image_id": 711,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    7616,
+                    4,
+                    124,
+                    7,
+                    121,
+                    7,
+                    116,
+                    12,
+                    116,
+                    12,
+                    116,
+                    11,
+                    117,
+                    10,
+                    117,
+                    11,
+                    117,
+                    9,
+                    119,
+                    6,
+                    122,
+                    6,
+                    7488
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                59,
+                58,
+                11,
+                13
+            ],
+            "area": 143,
+            "iscrowd": 0
+        },
+        {
+            "id": 3689,
+            "image_id": 711,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    7616,
+                    4,
+                    124,
+                    7,
+                    121,
+                    7,
+                    116,
+                    12,
+                    116,
+                    12,
+                    116,
+                    11,
+                    117,
+                    10,
+                    117,
+                    11,
+                    117,
+                    9,
+                    119,
+                    6,
+                    122,
+                    6,
+                    7488
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                59,
+                58,
+                11,
+                13
+            ],
+            "area": 143,
+            "iscrowd": 0
+        },
+        {
+            "id": 3690,
+            "image_id": 711,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    7562,
+                    4,
+                    124,
+                    5,
+                    123,
+                    6,
+                    117,
+                    11,
+                    117,
+                    10,
+                    118,
+                    10,
+                    118,
+                    10,
+                    117,
+                    6,
+                    1,
+                    4,
+                    116,
+                    8,
+                    120,
+                    7,
+                    122,
+                    6,
+                    7542
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                59,
+                3,
+                11,
+                13
+            ],
+            "area": 143,
+            "iscrowd": 0
+        },
+        {
+            "id": 3771,
+            "image_id": 725,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    2791,
+                    3,
+                    120,
+                    11,
+                    116,
+                    13,
+                    114,
+                    14,
+                    114,
+                    13,
+                    115,
+                    12,
+                    116,
+                    12,
+                    119,
+                    5,
+                    12696
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                21,
+                96,
+                8,
+                14
+            ],
+            "area": 112,
+            "iscrowd": 0
+        },
+        {
+            "id": 3772,
+            "image_id": 725,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    2791,
+                    3,
+                    120,
+                    11,
+                    116,
+                    13,
+                    114,
+                    14,
+                    114,
+                    13,
+                    115,
+                    12,
+                    116,
+                    12,
+                    119,
+                    5,
+                    12696
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                21,
+                96,
+                8,
+                14
+            ],
+            "area": 112,
+            "iscrowd": 0
+        },
+        {
+            "id": 3773,
+            "image_id": 725,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    7617,
+                    2,
+                    125,
+                    7,
+                    115,
+                    13,
+                    115,
+                    13,
+                    114,
+                    14,
+                    114,
+                    14,
+                    115,
+                    12,
+                    118,
+                    5,
+                    2,
+                    2,
+                    120,
+                    4,
+                    7743
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                59,
+                57,
+                9,
+                14
+            ],
+            "area": 126,
+            "iscrowd": 0
+        },
+        {
+            "id": 3774,
+            "image_id": 725,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    7617,
+                    2,
+                    125,
+                    7,
+                    115,
+                    13,
+                    115,
+                    13,
+                    114,
+                    14,
+                    114,
+                    14,
+                    115,
+                    12,
+                    118,
+                    5,
+                    2,
+                    2,
+                    120,
+                    4,
+                    7743
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                59,
+                57,
+                9,
+                14
+            ],
+            "area": 126,
+            "iscrowd": 0
+        },
+        {
+            "id": 3775,
+            "image_id": 725,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    12570,
+                    5,
+                    118,
+                    11,
+                    116,
+                    13,
+                    114,
+                    14,
+                    114,
+                    14,
+                    114,
+                    13,
+                    115,
+                    13,
+                    118,
+                    6,
+                    2916
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                98,
+                19,
+                8,
+                14
+            ],
+            "area": 112,
+            "iscrowd": 0
+        },
+        {
+            "id": 3776,
+            "image_id": 725,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    12570,
+                    5,
+                    118,
+                    11,
+                    116,
+                    13,
+                    114,
+                    14,
+                    114,
+                    14,
+                    114,
+                    13,
+                    115,
+                    13,
+                    118,
+                    6,
+                    2916
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                98,
+                19,
+                8,
+                14
+            ],
+            "area": 112,
+            "iscrowd": 0
+        },
+        {
+            "id": 3777,
+            "image_id": 725,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    15098,
+                    4,
+                    118,
+                    4,
+                    1,
+                    7,
+                    116,
+                    12,
+                    116,
+                    12,
+                    115,
+                    13,
+                    115,
+                    13,
+                    116,
+                    12,
+                    119,
+                    4,
+                    2,
+                    2,
+                    120,
+                    4,
+                    261
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                117,
+                115,
+                9,
+                13
+            ],
+            "area": 117,
+            "iscrowd": 0
+        },
+        {
+            "id": 3778,
+            "image_id": 725,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    15098,
+                    4,
+                    118,
+                    4,
+                    1,
+                    7,
+                    116,
+                    12,
+                    116,
+                    12,
+                    115,
+                    13,
+                    115,
+                    13,
+                    116,
+                    12,
+                    119,
+                    4,
+                    2,
+                    2,
+                    120,
+                    4,
+                    261
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                117,
+                115,
+                9,
+                13
+            ],
+            "area": 117,
+            "iscrowd": 0
+        },
+        {
+            "id": 3779,
+            "image_id": 725,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    135,
+                    3,
+                    119,
+                    12,
+                    115,
+                    14,
+                    114,
+                    14,
+                    114,
+                    14,
+                    114,
+                    14,
+                    114,
+                    13,
+                    116,
+                    10,
+                    120,
+                    5,
+                    124,
+                    3,
+                    15097
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                1,
+                0,
+                10,
+                14
+            ],
+            "area": 140,
+            "iscrowd": 0
+        },
+        {
+            "id": 3780,
+            "image_id": 726,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    572,
+                    3,
+                    125,
+                    4,
+                    124,
+                    7,
+                    121,
+                    7,
+                    121,
+                    7,
+                    121,
+                    7,
+                    253,
+                    1,
+                    2,
+                    3,
+                    121,
+                    7,
+                    121,
+                    7,
+                    121,
+                    6,
+                    125,
+                    3,
+                    14395
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                4,
+                60,
+                12,
+                10
+            ],
+            "area": 120,
+            "iscrowd": 0
+        },
+        {
+            "id": 3781,
+            "image_id": 726,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    572,
+                    3,
+                    125,
+                    4,
+                    124,
+                    7,
+                    121,
+                    7,
+                    121,
+                    7,
+                    121,
+                    7,
+                    253,
+                    1,
+                    2,
+                    3,
+                    121,
+                    7,
+                    121,
+                    7,
+                    121,
+                    6,
+                    125,
+                    3,
+                    14395
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                4,
+                60,
+                12,
+                10
+            ],
+            "area": 120,
+            "iscrowd": 0
+        },
+        {
+            "id": 3782,
+            "image_id": 726,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    7612,
+                    3,
+                    125,
+                    7,
+                    121,
+                    7,
+                    121,
+                    7,
+                    121,
+                    6,
+                    254,
+                    6,
+                    121,
+                    7,
+                    121,
+                    7,
+                    121,
+                    6,
+                    123,
+                    5,
+                    125,
+                    3,
+                    7355
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                59,
+                60,
+                12,
+                10
+            ],
+            "area": 120,
+            "iscrowd": 0
+        },
+        {
+            "id": 3783,
+            "image_id": 726,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    7612,
+                    3,
+                    125,
+                    7,
+                    121,
+                    7,
+                    121,
+                    7,
+                    121,
+                    6,
+                    254,
+                    6,
+                    121,
+                    7,
+                    121,
+                    7,
+                    121,
+                    6,
+                    123,
+                    5,
+                    125,
+                    3,
+                    7355
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                59,
+                60,
+                12,
+                10
+            ],
+            "area": 120,
+            "iscrowd": 0
+        },
+        {
+            "id": 3784,
+            "image_id": 726,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    14524,
+                    3,
+                    125,
+                    4,
+                    124,
+                    7,
+                    121,
+                    7,
+                    121,
+                    7,
+                    121,
+                    8,
+                    122,
+                    8,
+                    121,
+                    7,
+                    121,
+                    7,
+                    121,
+                    6,
+                    123,
+                    5,
+                    125,
+                    3,
+                    443
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                113,
+                60,
+                12,
+                10
+            ],
+            "area": 120,
+            "iscrowd": 0
+        },
+        {
+            "id": 3785,
+            "image_id": 727,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    444,
+                    3,
+                    124,
+                    6,
+                    122,
+                    9,
+                    119,
+                    9,
+                    119,
+                    9,
+                    119,
+                    9,
+                    119,
+                    9,
+                    120,
+                    10,
+                    120,
+                    9,
+                    119,
+                    9,
+                    119,
+                    9,
+                    119,
+                    8,
+                    121,
+                    7,
+                    124,
+                    3,
+                    14267
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                3,
+                59,
+                14,
+                12
+            ],
+            "area": 168,
+            "iscrowd": 0
+        },
+        {
+            "id": 3786,
+            "image_id": 727,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    444,
+                    3,
+                    124,
+                    6,
+                    122,
+                    9,
+                    119,
+                    9,
+                    119,
+                    9,
+                    119,
+                    9,
+                    119,
+                    9,
+                    120,
+                    10,
+                    120,
+                    9,
+                    119,
+                    9,
+                    119,
+                    9,
+                    119,
+                    8,
+                    121,
+                    7,
+                    124,
+                    3,
+                    14267
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                3,
+                59,
+                14,
+                12
+            ],
+            "area": 168,
+            "iscrowd": 0
+        },
+        {
+            "id": 3787,
+            "image_id": 727,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    7484,
+                    4,
+                    123,
+                    9,
+                    119,
+                    9,
+                    119,
+                    9,
+                    119,
+                    9,
+                    119,
+                    10,
+                    119,
+                    10,
+                    119,
+                    10,
+                    119,
+                    9,
+                    119,
+                    9,
+                    119,
+                    9,
+                    120,
+                    7,
+                    123,
+                    5,
+                    124,
+                    3,
+                    7227
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                58,
+                59,
+                14,
+                12
+            ],
+            "area": 168,
+            "iscrowd": 0
+        },
+        {
+            "id": 3788,
+            "image_id": 727,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    7484,
+                    4,
+                    123,
+                    9,
+                    119,
+                    9,
+                    119,
+                    9,
+                    119,
+                    9,
+                    119,
+                    10,
+                    119,
+                    10,
+                    119,
+                    10,
+                    119,
+                    9,
+                    119,
+                    9,
+                    119,
+                    9,
+                    120,
+                    7,
+                    123,
+                    5,
+                    124,
+                    3,
+                    7227
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                58,
+                59,
+                14,
+                12
+            ],
+            "area": 168,
+            "iscrowd": 0
+        },
+        {
+            "id": 3789,
+            "image_id": 727,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    14396,
+                    3,
+                    124,
+                    5,
+                    123,
+                    8,
+                    120,
+                    9,
+                    119,
+                    9,
+                    119,
+                    9,
+                    119,
+                    11,
+                    118,
+                    11,
+                    119,
+                    9,
+                    119,
+                    9,
+                    119,
+                    8,
+                    121,
+                    7,
+                    123,
+                    5,
+                    124,
+                    3,
+                    315
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                112,
+                59,
+                14,
+                12
+            ],
+            "area": 168,
+            "iscrowd": 0
+        },
+        {
+            "id": 5250,
+            "image_id": 976,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    2661,
+                    4,
+                    123,
+                    5,
+                    123,
+                    8,
+                    120,
+                    8,
+                    117,
+                    11,
+                    116,
+                    12,
+                    116,
+                    12,
+                    116,
+                    12,
+                    117,
+                    11,
+                    117,
+                    10,
+                    118,
+                    9,
+                    119,
+                    9,
+                    121,
+                    6,
+                    124,
+                    4,
+                    12055
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                20,
+                96,
+                14,
+                12
+            ],
+            "area": 168,
+            "iscrowd": 0
+        },
+        {
+            "id": 5251,
+            "image_id": 976,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    2661,
+                    4,
+                    123,
+                    5,
+                    123,
+                    8,
+                    120,
+                    8,
+                    117,
+                    11,
+                    116,
+                    12,
+                    116,
+                    12,
+                    116,
+                    12,
+                    117,
+                    11,
+                    117,
+                    10,
+                    118,
+                    9,
+                    119,
+                    9,
+                    121,
+                    6,
+                    124,
+                    4,
+                    12055
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                20,
+                96,
+                14,
+                12
+            ],
+            "area": 168,
+            "iscrowd": 0
+        },
+        {
+            "id": 5252,
+            "image_id": 976,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    7486,
+                    3,
+                    125,
+                    7,
+                    120,
+                    8,
+                    120,
+                    9,
+                    116,
+                    12,
+                    116,
+                    11,
+                    117,
+                    11,
+                    117,
+                    12,
+                    117,
+                    11,
+                    117,
+                    10,
+                    118,
+                    9,
+                    119,
+                    8,
+                    120,
+                    7,
+                    124,
+                    4,
+                    125,
+                    3,
+                    7102
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                58,
+                58,
+                15,
+                12
+            ],
+            "area": 180,
+            "iscrowd": 0
+        },
+        {
+            "id": 5253,
+            "image_id": 976,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    7486,
+                    3,
+                    125,
+                    7,
+                    120,
+                    8,
+                    120,
+                    9,
+                    116,
+                    12,
+                    116,
+                    11,
+                    117,
+                    11,
+                    117,
+                    12,
+                    117,
+                    11,
+                    117,
+                    10,
+                    118,
+                    9,
+                    119,
+                    8,
+                    120,
+                    7,
+                    124,
+                    4,
+                    125,
+                    3,
+                    7102
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                58,
+                58,
+                15,
+                12
+            ],
+            "area": 180,
+            "iscrowd": 0
+        },
+        {
+            "id": 5254,
+            "image_id": 976,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    12440,
+                    4,
+                    124,
+                    7,
+                    120,
+                    8,
+                    118,
+                    10,
+                    117,
+                    11,
+                    117,
+                    11,
+                    117,
+                    11,
+                    117,
+                    11,
+                    117,
+                    11,
+                    117,
+                    10,
+                    118,
+                    9,
+                    119,
+                    8,
+                    121,
+                    7,
+                    124,
+                    4,
+                    2276
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                97,
+                20,
+                14,
+                11
+            ],
+            "area": 154,
+            "iscrowd": 0
+        },
+        {
+            "id": 5255,
+            "image_id": 976,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    12440,
+                    4,
+                    124,
+                    7,
+                    120,
+                    8,
+                    118,
+                    10,
+                    117,
+                    11,
+                    117,
+                    11,
+                    117,
+                    11,
+                    117,
+                    11,
+                    117,
+                    11,
+                    117,
+                    10,
+                    118,
+                    9,
+                    119,
+                    8,
+                    121,
+                    7,
+                    124,
+                    4,
+                    2276
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                97,
+                20,
+                14,
+                11
+            ],
+            "area": 154,
+            "iscrowd": 0
+        },
+        {
+            "id": 5256,
+            "image_id": 976,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    15096,
+                    7,
+                    121,
+                    7,
+                    120,
+                    8,
+                    117,
+                    11,
+                    117,
+                    11,
+                    117,
+                    12,
+                    116,
+                    12,
+                    117,
+                    11,
+                    117,
+                    11,
+                    117,
+                    10,
+                    118,
+                    11
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                117,
+                116,
+                11,
+                12
+            ],
+            "area": 132,
+            "iscrowd": 0
+        },
+        {
+            "id": 5257,
+            "image_id": 976,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    15096,
+                    7,
+                    121,
+                    7,
+                    120,
+                    8,
+                    117,
+                    11,
+                    117,
+                    11,
+                    117,
+                    12,
+                    116,
+                    12,
+                    117,
+                    11,
+                    117,
+                    11,
+                    117,
+                    10,
+                    118,
+                    11
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                117,
+                116,
+                11,
+                12
+            ],
+            "area": 132,
+            "iscrowd": 0
+        },
+        {
+            "id": 5258,
+            "image_id": 976,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    0,
+                    12,
+                    116,
+                    12,
+                    116,
+                    12,
+                    116,
+                    12,
+                    116,
+                    12,
+                    116,
+                    12,
+                    116,
+                    12,
+                    116,
+                    13,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    12,
+                    116,
+                    10,
+                    118,
+                    9,
+                    119,
+                    9,
+                    123,
+                    4,
+                    14584
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                0,
+                0,
+                15,
+                13
+            ],
+            "area": 195,
+            "iscrowd": 0
+        },
+        {
+            "id": 5299,
+            "image_id": 982,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    3950,
+                    4,
+                    124,
+                    5,
+                    122,
+                    7,
+                    117,
+                    12,
+                    116,
+                    13,
+                    115,
+                    13,
+                    115,
+                    13,
+                    114,
+                    13,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    12,
+                    116,
+                    10,
+                    121,
+                    6,
+                    123,
+                    5,
+                    124,
+                    3,
+                    10512
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                30,
+                104,
+                16,
+                14
+            ],
+            "area": 224,
+            "iscrowd": 0
+        },
+        {
+            "id": 5300,
+            "image_id": 982,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    3950,
+                    4,
+                    124,
+                    5,
+                    122,
+                    7,
+                    117,
+                    12,
+                    116,
+                    13,
+                    115,
+                    13,
+                    115,
+                    13,
+                    114,
+                    13,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    12,
+                    116,
+                    10,
+                    121,
+                    6,
+                    123,
+                    5,
+                    124,
+                    3,
+                    10512
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                30,
+                104,
+                16,
+                14
+            ],
+            "area": 224,
+            "iscrowd": 0
+        },
+        {
+            "id": 5301,
+            "image_id": 982,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    7486,
+                    5,
+                    123,
+                    6,
+                    118,
+                    12,
+                    116,
+                    13,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    12,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    12,
+                    119,
+                    6,
+                    122,
+                    5,
+                    123,
+                    5,
+                    7103
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                58,
+                57,
+                15,
+                14
+            ],
+            "area": 210,
+            "iscrowd": 0
+        },
+        {
+            "id": 5302,
+            "image_id": 982,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    7486,
+                    5,
+                    123,
+                    6,
+                    118,
+                    12,
+                    116,
+                    13,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    12,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    12,
+                    119,
+                    6,
+                    122,
+                    5,
+                    123,
+                    5,
+                    7103
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                58,
+                57,
+                15,
+                14
+            ],
+            "area": 210,
+            "iscrowd": 0
+        },
+        {
+            "id": 5303,
+            "image_id": 982,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    10896,
+                    4,
+                    123,
+                    6,
+                    118,
+                    13,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    12,
+                    115,
+                    13,
+                    115,
+                    12,
+                    116,
+                    12,
+                    116,
+                    12,
+                    117,
+                    9,
+                    121,
+                    6,
+                    122,
+                    5,
+                    3694
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                85,
+                10,
+                15,
+                14
+            ],
+            "area": 210,
+            "iscrowd": 0
+        },
+        {
+            "id": 5329,
+            "image_id": 988,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    5750,
+                    3,
+                    124,
+                    4,
+                    118,
+                    11,
+                    117,
+                    11,
+                    117,
+                    12,
+                    116,
+                    12,
+                    115,
+                    13,
+                    114,
+                    14,
+                    114,
+                    13,
+                    116,
+                    11,
+                    118,
+                    10,
+                    119,
+                    8,
+                    120,
+                    4,
+                    125,
+                    2,
+                    8973
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                44,
+                109,
+                14,
+                14
+            ],
+            "area": 196,
+            "iscrowd": 0
+        },
+        {
+            "id": 5330,
+            "image_id": 988,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    5750,
+                    3,
+                    124,
+                    4,
+                    118,
+                    11,
+                    117,
+                    11,
+                    117,
+                    12,
+                    116,
+                    12,
+                    115,
+                    13,
+                    114,
+                    14,
+                    114,
+                    13,
+                    116,
+                    11,
+                    118,
+                    10,
+                    119,
+                    8,
+                    120,
+                    4,
+                    125,
+                    2,
+                    8973
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                44,
+                109,
+                14,
+                14
+            ],
+            "area": 196,
+            "iscrowd": 0
+        },
+        {
+            "id": 5331,
+            "image_id": 988,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    7616,
+                    4,
+                    119,
+                    10,
+                    118,
+                    10,
+                    118,
+                    11,
+                    117,
+                    6,
+                    1,
+                    5,
+                    115,
+                    5,
+                    3,
+                    5,
+                    114,
+                    5,
+                    3,
+                    5,
+                    115,
+                    6,
+                    1,
+                    5,
+                    116,
+                    6,
+                    1,
+                    5,
+                    118,
+                    10,
+                    118,
+                    5,
+                    1,
+                    3,
+                    119,
+                    4,
+                    125,
+                    3,
+                    7233
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                59,
+                57,
+                13,
+                14
+            ],
+            "area": 182,
+            "iscrowd": 0
+        },
+        {
+            "id": 5332,
+            "image_id": 988,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    7616,
+                    4,
+                    119,
+                    10,
+                    118,
+                    10,
+                    118,
+                    11,
+                    117,
+                    6,
+                    1,
+                    5,
+                    115,
+                    5,
+                    3,
+                    5,
+                    114,
+                    5,
+                    3,
+                    5,
+                    115,
+                    6,
+                    1,
+                    5,
+                    116,
+                    6,
+                    1,
+                    5,
+                    118,
+                    10,
+                    118,
+                    5,
+                    1,
+                    3,
+                    119,
+                    4,
+                    125,
+                    3,
+                    7233
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                59,
+                57,
+                13,
+                14
+            ],
+            "area": 182,
+            "iscrowd": 0
+        },
+        {
+            "id": 5333,
+            "image_id": 988,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    9356,
+                    4,
+                    119,
+                    9,
+                    119,
+                    10,
+                    118,
+                    11,
+                    117,
+                    12,
+                    115,
+                    13,
+                    113,
+                    14,
+                    114,
+                    13,
+                    115,
+                    12,
+                    117,
+                    11,
+                    119,
+                    8,
+                    120,
+                    4,
+                    125,
+                    3,
+                    5493
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                73,
+                4,
+                13,
+                15
+            ],
+            "area": 195,
+            "iscrowd": 0
+        },
+        {
+            "id": 5354,
+            "image_id": 993,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    7666,
+                    4,
+                    2,
+                    4,
+                    118,
+                    10,
+                    118,
+                    11,
+                    115,
+                    13,
+                    114,
+                    14,
+                    114,
+                    14,
+                    114,
+                    14,
+                    114,
+                    14,
+                    115,
+                    11,
+                    118,
+                    9,
+                    119,
+                    9,
+                    119,
+                    4,
+                    7307
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                59,
+                111,
+                12,
+                14
+            ],
+            "area": 168,
+            "iscrowd": 0
+        },
+        {
+            "id": 5355,
+            "image_id": 993,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    7666,
+                    4,
+                    2,
+                    4,
+                    118,
+                    10,
+                    118,
+                    11,
+                    115,
+                    13,
+                    114,
+                    14,
+                    114,
+                    14,
+                    114,
+                    14,
+                    114,
+                    14,
+                    115,
+                    11,
+                    118,
+                    9,
+                    119,
+                    9,
+                    119,
+                    4,
+                    7307
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                59,
+                111,
+                12,
+                14
+            ],
+            "area": 168,
+            "iscrowd": 0
+        },
+        {
+            "id": 5356,
+            "image_id": 993,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    7612,
+                    4,
+                    1,
+                    4,
+                    119,
+                    9,
+                    119,
+                    10,
+                    117,
+                    11,
+                    115,
+                    14,
+                    114,
+                    14,
+                    114,
+                    14,
+                    114,
+                    14,
+                    115,
+                    11,
+                    117,
+                    10,
+                    118,
+                    5,
+                    1,
+                    4,
+                    119,
+                    3,
+                    7362
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                59,
+                57,
+                12,
+                14
+            ],
+            "area": 168,
+            "iscrowd": 0
+        },
+        {
+            "id": 5357,
+            "image_id": 993,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    7612,
+                    4,
+                    1,
+                    4,
+                    119,
+                    9,
+                    119,
+                    10,
+                    117,
+                    11,
+                    115,
+                    14,
+                    114,
+                    14,
+                    114,
+                    14,
+                    114,
+                    14,
+                    115,
+                    11,
+                    117,
+                    10,
+                    118,
+                    5,
+                    1,
+                    4,
+                    119,
+                    3,
+                    7362
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                59,
+                57,
+                12,
+                14
+            ],
+            "area": 168,
+            "iscrowd": 0
+        },
+        {
+            "id": 5358,
+            "image_id": 993,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    7558,
+                    4,
+                    1,
+                    4,
+                    119,
+                    9,
+                    119,
+                    9,
+                    118,
+                    11,
+                    114,
+                    15,
+                    113,
+                    7,
+                    1,
+                    7,
+                    113,
+                    15,
+                    113,
+                    15,
+                    114,
+                    11,
+                    118,
+                    9,
+                    119,
+                    9,
+                    119,
+                    4,
+                    7416
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                59,
+                2,
+                12,
+                15
+            ],
+            "area": 180,
+            "iscrowd": 0
+        },
+        {
+            "id": 5420,
+            "image_id": 1004,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    118,
+                    1,
+                    1,
+                    8,
+                    117,
+                    11,
+                    116,
+                    12,
+                    116,
+                    12,
+                    115,
+                    13,
+                    115,
+                    13,
+                    114,
+                    14,
+                    114,
+                    14,
+                    115,
+                    13,
+                    118,
+                    10,
+                    118,
+                    10,
+                    118,
+                    10,
+                    120,
+                    2,
+                    4,
+                    1,
+                    14721
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                0,
+                114,
+                13,
+                14
+            ],
+            "area": 182,
+            "iscrowd": 0
+        },
+        {
+            "id": 5421,
+            "image_id": 1004,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    118,
+                    1,
+                    1,
+                    8,
+                    117,
+                    11,
+                    116,
+                    12,
+                    116,
+                    12,
+                    115,
+                    13,
+                    115,
+                    13,
+                    114,
+                    14,
+                    114,
+                    14,
+                    115,
+                    13,
+                    118,
+                    10,
+                    118,
+                    10,
+                    118,
+                    10,
+                    120,
+                    2,
+                    4,
+                    1,
+                    14721
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                0,
+                114,
+                13,
+                14
+            ],
+            "area": 182,
+            "iscrowd": 0
+        },
+        {
+            "id": 5422,
+            "image_id": 1004,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    12514,
+                    8,
+                    119,
+                    9,
+                    119,
+                    9,
+                    119,
+                    9,
+                    1,
+                    2,
+                    115,
+                    14,
+                    114,
+                    7,
+                    1,
+                    6,
+                    114,
+                    14,
+                    114,
+                    13,
+                    115,
+                    12,
+                    120,
+                    8,
+                    120,
+                    7,
+                    2581
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                97,
+                96,
+                11,
+                14
+            ],
+            "area": 154,
+            "iscrowd": 0
+        },
+        {
+            "id": 5423,
+            "image_id": 1004,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    12514,
+                    8,
+                    119,
+                    9,
+                    119,
+                    9,
+                    119,
+                    9,
+                    1,
+                    2,
+                    115,
+                    14,
+                    114,
+                    7,
+                    1,
+                    6,
+                    114,
+                    14,
+                    114,
+                    13,
+                    115,
+                    12,
+                    120,
+                    8,
+                    120,
+                    7,
+                    2581
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                97,
+                96,
+                11,
+                14
+            ],
+            "area": 154,
+            "iscrowd": 0
+        },
+        {
+            "id": 5424,
+            "image_id": 1004,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    7488,
+                    3,
+                    120,
+                    9,
+                    118,
+                    10,
+                    118,
+                    12,
+                    115,
+                    14,
+                    114,
+                    14,
+                    114,
+                    14,
+                    113,
+                    15,
+                    115,
+                    12,
+                    119,
+                    9,
+                    119,
+                    9,
+                    119,
+                    9,
+                    7482
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                58,
+                56,
+                12,
+                15
+            ],
+            "area": 180,
+            "iscrowd": 0
+        },
+        {
+            "id": 5425,
+            "image_id": 1004,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    7488,
+                    3,
+                    120,
+                    9,
+                    118,
+                    10,
+                    118,
+                    12,
+                    115,
+                    14,
+                    114,
+                    14,
+                    114,
+                    14,
+                    113,
+                    15,
+                    115,
+                    12,
+                    119,
+                    9,
+                    119,
+                    9,
+                    119,
+                    9,
+                    7482
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                58,
+                56,
+                12,
+                15
+            ],
+            "area": 180,
+            "iscrowd": 0
+        },
+        {
+            "id": 5426,
+            "image_id": 1004,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    2582,
+                    1,
+                    3,
+                    2,
+                    120,
+                    10,
+                    118,
+                    10,
+                    118,
+                    12,
+                    115,
+                    14,
+                    114,
+                    14,
+                    114,
+                    14,
+                    114,
+                    13,
+                    118,
+                    10,
+                    119,
+                    9,
+                    119,
+                    9,
+                    123,
+                    4,
+                    12385
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                20,
+                19,
+                12,
+                14
+            ],
+            "area": 168,
+            "iscrowd": 0
+        },
+        {
+            "id": 5427,
+            "image_id": 1004,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    2582,
+                    1,
+                    3,
+                    2,
+                    120,
+                    10,
+                    118,
+                    10,
+                    118,
+                    12,
+                    115,
+                    14,
+                    114,
+                    14,
+                    114,
+                    14,
+                    114,
+                    13,
+                    118,
+                    10,
+                    119,
+                    9,
+                    119,
+                    9,
+                    123,
+                    4,
+                    12385
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                20,
+                19,
+                12,
+                14
+            ],
+            "area": 168,
+            "iscrowd": 0
+        },
+        {
+            "id": 5428,
+            "image_id": 1004,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    14854,
+                    3,
+                    119,
+                    10,
+                    118,
+                    10,
+                    118,
+                    11,
+                    117,
+                    13,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    12,
+                    116
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                116,
+                0,
+                12,
+                13
+            ],
+            "area": 156,
+            "iscrowd": 0
+        },
+        {
+            "id": 6871,
+            "image_id": 1259,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    2791,
+                    3,
+                    124,
+                    5,
+                    118,
+                    10,
+                    118,
+                    11,
+                    116,
+                    14,
+                    115,
+                    13,
+                    114,
+                    14,
+                    114,
+                    14,
+                    114,
+                    13,
+                    114,
+                    14,
+                    114,
+                    14,
+                    115,
+                    13,
+                    117,
+                    11,
+                    118,
+                    9,
+                    119,
+                    5,
+                    124,
+                    4,
+                    11672
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                21,
+                95,
+                16,
+                15
+            ],
+            "area": 240,
+            "iscrowd": 0
+        },
+        {
+            "id": 6872,
+            "image_id": 1259,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    2791,
+                    3,
+                    124,
+                    5,
+                    118,
+                    10,
+                    118,
+                    11,
+                    116,
+                    14,
+                    115,
+                    13,
+                    114,
+                    14,
+                    114,
+                    14,
+                    114,
+                    13,
+                    114,
+                    14,
+                    114,
+                    14,
+                    115,
+                    13,
+                    117,
+                    11,
+                    118,
+                    9,
+                    119,
+                    5,
+                    124,
+                    4,
+                    11672
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                21,
+                95,
+                16,
+                15
+            ],
+            "area": 240,
+            "iscrowd": 0
+        },
+        {
+            "id": 6873,
+            "image_id": 1259,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    7744,
+                    3,
+                    120,
+                    9,
+                    118,
+                    10,
+                    118,
+                    10,
+                    118,
+                    13,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    6,
+                    2,
+                    5,
+                    114,
+                    8,
+                    1,
+                    4,
+                    115,
+                    8,
+                    1,
+                    5,
+                    115,
+                    13,
+                    117,
+                    10,
+                    119,
+                    9,
+                    119,
+                    5,
+                    1,
+                    1,
+                    122,
+                    4,
+                    6846
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                60,
+                57,
+                15,
+                14
+            ],
+            "area": 210,
+            "iscrowd": 0
+        },
+        {
+            "id": 6874,
+            "image_id": 1259,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    7744,
+                    3,
+                    120,
+                    9,
+                    118,
+                    10,
+                    118,
+                    10,
+                    118,
+                    13,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    6,
+                    2,
+                    5,
+                    114,
+                    8,
+                    1,
+                    4,
+                    115,
+                    8,
+                    1,
+                    5,
+                    115,
+                    13,
+                    117,
+                    10,
+                    119,
+                    9,
+                    119,
+                    5,
+                    1,
+                    1,
+                    122,
+                    4,
+                    6846
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                60,
+                57,
+                15,
+                14
+            ],
+            "area": 210,
+            "iscrowd": 0
+        },
+        {
+            "id": 6875,
+            "image_id": 1259,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    12570,
+                    3,
+                    124,
+                    5,
+                    118,
+                    10,
+                    118,
+                    11,
+                    117,
+                    13,
+                    115,
+                    13,
+                    115,
+                    13,
+                    114,
+                    14,
+                    114,
+                    14,
+                    114,
+                    14,
+                    114,
+                    14,
+                    115,
+                    13,
+                    118,
+                    10,
+                    118,
+                    9,
+                    120,
+                    4,
+                    2020
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                98,
+                19,
+                15,
+                14
+            ],
+            "area": 210,
+            "iscrowd": 0
+        },
+        {
+            "id": 6876,
+            "image_id": 1259,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    15099,
+                    1,
+                    124,
+                    5,
+                    120,
+                    9,
+                    1,
+                    1,
+                    116,
+                    12,
+                    116,
+                    12,
+                    116,
+                    12,
+                    116,
+                    12,
+                    116,
+                    12,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    13
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                117,
+                115,
+                11,
+                13
+            ],
+            "area": 143,
+            "iscrowd": 0
+        },
+        {
+            "id": 6877,
+            "image_id": 1259,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    15099,
+                    1,
+                    124,
+                    5,
+                    120,
+                    9,
+                    1,
+                    1,
+                    116,
+                    12,
+                    116,
+                    12,
+                    116,
+                    12,
+                    116,
+                    12,
+                    116,
+                    12,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    13
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                117,
+                115,
+                11,
+                13
+            ],
+            "area": 143,
+            "iscrowd": 0
+        },
+        {
+            "id": 6878,
+            "image_id": 1259,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    262,
+                    3,
+                    121,
+                    8,
+                    119,
+                    9,
+                    119,
+                    10,
+                    118,
+                    12,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    12,
+                    116,
+                    13,
+                    115,
+                    13,
+                    115,
+                    13,
+                    118,
+                    9,
+                    119,
+                    5,
+                    124,
+                    4,
+                    14328
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                2,
+                0,
+                15,
+                13
+            ],
+            "area": 195,
+            "iscrowd": 0
+        },
+        {
+            "id": 6887,
+            "image_id": 1261,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    4330,
+                    10,
+                    118,
+                    10,
+                    118,
+                    10,
+                    118,
+                    11,
+                    117,
+                    12,
+                    114,
+                    15,
+                    112,
+                    16,
+                    112,
+                    16,
+                    112,
+                    15,
+                    114,
+                    13,
+                    117,
+                    10,
+                    118,
+                    10,
+                    118,
+                    10,
+                    118,
+                    9,
+                    119,
+                    8,
+                    10254
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                33,
+                103,
+                15,
+                16
+            ],
+            "area": 240,
+            "iscrowd": 0
+        },
+        {
+            "id": 6888,
+            "image_id": 1261,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    4330,
+                    10,
+                    118,
+                    10,
+                    118,
+                    10,
+                    118,
+                    11,
+                    117,
+                    12,
+                    114,
+                    15,
+                    112,
+                    16,
+                    112,
+                    16,
+                    112,
+                    15,
+                    114,
+                    13,
+                    117,
+                    10,
+                    118,
+                    10,
+                    118,
+                    10,
+                    118,
+                    9,
+                    119,
+                    8,
+                    10254
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                33,
+                103,
+                15,
+                16
+            ],
+            "area": 240,
+            "iscrowd": 0
+        },
+        {
+            "id": 6889,
+            "image_id": 1261,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    7740,
+                    4,
+                    1,
+                    2,
+                    120,
+                    9,
+                    119,
+                    10,
+                    118,
+                    10,
+                    118,
+                    10,
+                    116,
+                    13,
+                    114,
+                    15,
+                    113,
+                    15,
+                    113,
+                    15,
+                    114,
+                    13,
+                    117,
+                    11,
+                    117,
+                    10,
+                    118,
+                    10,
+                    118,
+                    9,
+                    120,
+                    3,
+                    6849
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                60,
+                56,
+                15,
+                15
+            ],
+            "area": 225,
+            "iscrowd": 0
+        },
+        {
+            "id": 6890,
+            "image_id": 1261,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    7740,
+                    4,
+                    1,
+                    2,
+                    120,
+                    9,
+                    119,
+                    10,
+                    118,
+                    10,
+                    118,
+                    10,
+                    116,
+                    13,
+                    114,
+                    15,
+                    113,
+                    15,
+                    113,
+                    15,
+                    114,
+                    13,
+                    117,
+                    11,
+                    117,
+                    10,
+                    118,
+                    10,
+                    118,
+                    9,
+                    120,
+                    3,
+                    6849
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                60,
+                56,
+                15,
+                15
+            ],
+            "area": 225,
+            "iscrowd": 0
+        },
+        {
+            "id": 6891,
+            "image_id": 1261,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    11154,
+                    2,
+                    120,
+                    10,
+                    118,
+                    10,
+                    118,
+                    10,
+                    118,
+                    10,
+                    116,
+                    14,
+                    114,
+                    14,
+                    114,
+                    14,
+                    114,
+                    14,
+                    115,
+                    12,
+                    118,
+                    10,
+                    118,
+                    9,
+                    119,
+                    9,
+                    119,
+                    8,
+                    122,
+                    1,
+                    3440
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                87,
+                10,
+                15,
+                14
+            ],
+            "area": 210,
+            "iscrowd": 0
+        },
+        {
+            "id": 6912,
+            "image_id": 1266,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    5873,
+                    3,
+                    124,
+                    6,
+                    122,
+                    10,
+                    117,
+                    12,
+                    114,
+                    14,
+                    113,
+                    15,
+                    113,
+                    15,
+                    113,
+                    15,
+                    113,
+                    15,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    12,
+                    115,
+                    11,
+                    118,
+                    10,
+                    118,
+                    9,
+                    8713
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                45,
+                108,
+                15,
+                15
+            ],
+            "area": 225,
+            "iscrowd": 0
+        },
+        {
+            "id": 6913,
+            "image_id": 1266,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    5873,
+                    3,
+                    124,
+                    6,
+                    122,
+                    10,
+                    117,
+                    12,
+                    114,
+                    14,
+                    113,
+                    15,
+                    113,
+                    15,
+                    113,
+                    15,
+                    113,
+                    15,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    12,
+                    115,
+                    11,
+                    118,
+                    10,
+                    118,
+                    9,
+                    8713
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                45,
+                108,
+                15,
+                15
+            ],
+            "area": 225,
+            "iscrowd": 0
+        },
+        {
+            "id": 6914,
+            "image_id": 1266,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    7614,
+                    1,
+                    125,
+                    5,
+                    123,
+                    8,
+                    119,
+                    10,
+                    117,
+                    11,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    6,
+                    2,
+                    6,
+                    114,
+                    6,
+                    2,
+                    6,
+                    116,
+                    5,
+                    1,
+                    6,
+                    116,
+                    12,
+                    115,
+                    12,
+                    116,
+                    10,
+                    119,
+                    9,
+                    120,
+                    2,
+                    2,
+                    4,
+                    6973
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                59,
+                56,
+                15,
+                14
+            ],
+            "area": 210,
+            "iscrowd": 0
+        },
+        {
+            "id": 6915,
+            "image_id": 1266,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    7614,
+                    1,
+                    125,
+                    5,
+                    123,
+                    8,
+                    119,
+                    10,
+                    117,
+                    11,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    6,
+                    2,
+                    6,
+                    114,
+                    6,
+                    2,
+                    6,
+                    116,
+                    5,
+                    1,
+                    6,
+                    116,
+                    12,
+                    115,
+                    12,
+                    116,
+                    10,
+                    119,
+                    9,
+                    120,
+                    2,
+                    2,
+                    4,
+                    6973
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                59,
+                56,
+                15,
+                14
+            ],
+            "area": 210,
+            "iscrowd": 0
+        },
+        {
+            "id": 6916,
+            "image_id": 1266,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    9479,
+                    4,
+                    124,
+                    9,
+                    118,
+                    11,
+                    117,
+                    11,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    14,
+                    114,
+                    14,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    12,
+                    116,
+                    10,
+                    118,
+                    10,
+                    120,
+                    2,
+                    2,
+                    4,
+                    5233
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                74,
+                4,
+                14,
+                14
+            ],
+            "area": 196,
+            "iscrowd": 0
+        },
+        {
+            "id": 6986,
+            "image_id": 1281,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    116,
+                    12,
+                    115,
+                    13,
+                    115,
+                    13,
+                    114,
+                    14,
+                    113,
+                    15,
+                    113,
+                    15,
+                    113,
+                    15,
+                    113,
+                    15,
+                    114,
+                    14,
+                    114,
+                    14,
+                    114,
+                    14,
+                    114,
+                    12,
+                    1,
+                    1,
+                    115,
+                    9,
+                    124,
+                    4,
+                    14596
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                0,
+                113,
+                14,
+                15
+            ],
+            "area": 210,
+            "iscrowd": 0
+        },
+        {
+            "id": 6987,
+            "image_id": 1281,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    12385,
+                    4,
+                    124,
+                    4,
+                    2,
+                    3,
+                    118,
+                    11,
+                    117,
+                    11,
+                    114,
+                    14,
+                    114,
+                    14,
+                    114,
+                    8,
+                    1,
+                    5,
+                    114,
+                    7,
+                    1,
+                    7,
+                    114,
+                    14,
+                    115,
+                    13,
+                    114,
+                    14,
+                    114,
+                    13,
+                    116,
+                    10,
+                    119,
+                    2,
+                    1,
+                    6,
+                    124,
+                    3,
+                    2200
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                96,
+                93,
+                15,
+                15
+            ],
+            "area": 225,
+            "iscrowd": 0
+        },
+        {
+            "id": 6988,
+            "image_id": 1281,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    12385,
+                    4,
+                    124,
+                    4,
+                    2,
+                    3,
+                    118,
+                    11,
+                    117,
+                    11,
+                    114,
+                    14,
+                    114,
+                    14,
+                    114,
+                    8,
+                    1,
+                    5,
+                    114,
+                    7,
+                    1,
+                    7,
+                    114,
+                    14,
+                    115,
+                    13,
+                    114,
+                    14,
+                    114,
+                    13,
+                    116,
+                    10,
+                    119,
+                    2,
+                    1,
+                    6,
+                    124,
+                    3,
+                    2200
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                96,
+                93,
+                15,
+                15
+            ],
+            "area": 225,
+            "iscrowd": 0
+        },
+        {
+            "id": 6989,
+            "image_id": 1281,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    7355,
+                    3,
+                    124,
+                    6,
+                    122,
+                    10,
+                    118,
+                    11,
+                    115,
+                    13,
+                    114,
+                    14,
+                    114,
+                    14,
+                    114,
+                    14,
+                    114,
+                    14,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    12,
+                    116,
+                    10,
+                    119,
+                    9,
+                    123,
+                    4,
+                    7231
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                57,
+                55,
+                15,
+                14
+            ],
+            "area": 210,
+            "iscrowd": 0
+        },
+        {
+            "id": 6990,
+            "image_id": 1281,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    7355,
+                    3,
+                    124,
+                    6,
+                    122,
+                    10,
+                    118,
+                    11,
+                    115,
+                    13,
+                    114,
+                    14,
+                    114,
+                    14,
+                    114,
+                    14,
+                    114,
+                    14,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    12,
+                    116,
+                    10,
+                    119,
+                    9,
+                    123,
+                    4,
+                    7231
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                57,
+                55,
+                15,
+                14
+            ],
+            "area": 210,
+            "iscrowd": 0
+        },
+        {
+            "id": 6991,
+            "image_id": 1281,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    2454,
+                    2,
+                    125,
+                    8,
+                    119,
+                    9,
+                    119,
+                    10,
+                    116,
+                    12,
+                    115,
+                    13,
+                    114,
+                    14,
+                    114,
+                    15,
+                    114,
+                    14,
+                    115,
+                    13,
+                    115,
+                    12,
+                    116,
+                    10,
+                    118,
+                    10,
+                    119,
+                    9,
+                    12260
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                19,
+                16,
+                14,
+                15
+            ],
+            "area": 210,
+            "iscrowd": 0
+        },
+        {
+            "id": 6992,
+            "image_id": 1281,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    2454,
+                    2,
+                    125,
+                    8,
+                    119,
+                    9,
+                    119,
+                    10,
+                    116,
+                    12,
+                    115,
+                    13,
+                    114,
+                    14,
+                    114,
+                    15,
+                    114,
+                    14,
+                    115,
+                    13,
+                    115,
+                    12,
+                    116,
+                    10,
+                    118,
+                    10,
+                    119,
+                    9,
+                    12260
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                19,
+                16,
+                14,
+                15
+            ],
+            "area": 210,
+            "iscrowd": 0
+        },
+        {
+            "id": 6993,
+            "image_id": 1281,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    14721,
+                    3,
+                    124,
+                    5,
+                    123,
+                    10,
+                    118,
+                    11,
+                    117,
+                    11,
+                    117,
+                    11,
+                    117,
+                    11,
+                    117,
+                    12,
+                    116,
+                    12,
+                    116,
+                    12,
+                    116,
+                    11,
+                    117,
+                    9,
+                    119,
+                    9,
+                    119
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                115,
+                0,
+                13,
+                12
+            ],
+            "area": 156,
+            "iscrowd": 0
+        },
+        {
+            "id": 6994,
+            "image_id": 1282,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    115,
+                    12,
+                    116,
+                    12,
+                    116,
+                    13,
+                    114,
+                    14,
+                    112,
+                    16,
+                    112,
+                    16,
+                    112,
+                    16,
+                    112,
+                    16,
+                    114,
+                    14,
+                    114,
+                    14,
+                    114,
+                    13,
+                    115,
+                    11,
+                    117,
+                    10,
+                    120,
+                    2,
+                    1,
+                    5,
+                    14596
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                0,
+                112,
+                14,
+                16
+            ],
+            "area": 224,
+            "iscrowd": 0
+        },
+        {
+            "id": 6995,
+            "image_id": 1282,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    115,
+                    12,
+                    116,
+                    12,
+                    116,
+                    13,
+                    114,
+                    14,
+                    112,
+                    16,
+                    112,
+                    16,
+                    112,
+                    16,
+                    112,
+                    16,
+                    114,
+                    14,
+                    114,
+                    14,
+                    114,
+                    13,
+                    115,
+                    11,
+                    117,
+                    10,
+                    120,
+                    2,
+                    1,
+                    5,
+                    14596
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                0,
+                112,
+                14,
+                16
+            ],
+            "area": 224,
+            "iscrowd": 0
+        },
+        {
+            "id": 6996,
+            "image_id": 1282,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    12257,
+                    4,
+                    123,
+                    6,
+                    122,
+                    11,
+                    117,
+                    11,
+                    117,
+                    11,
+                    113,
+                    15,
+                    113,
+                    16,
+                    112,
+                    16,
+                    112,
+                    17,
+                    112,
+                    16,
+                    113,
+                    15,
+                    113,
+                    15,
+                    113,
+                    14,
+                    114,
+                    11,
+                    118,
+                    10,
+                    123,
+                    5,
+                    2199
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                95,
+                92,
+                16,
+                17
+            ],
+            "area": 272,
+            "iscrowd": 0
+        },
+        {
+            "id": 6997,
+            "image_id": 1282,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    12257,
+                    4,
+                    123,
+                    6,
+                    122,
+                    11,
+                    117,
+                    11,
+                    117,
+                    11,
+                    113,
+                    15,
+                    113,
+                    16,
+                    112,
+                    16,
+                    112,
+                    17,
+                    112,
+                    16,
+                    113,
+                    15,
+                    113,
+                    15,
+                    113,
+                    14,
+                    114,
+                    11,
+                    118,
+                    10,
+                    123,
+                    5,
+                    2199
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                95,
+                92,
+                16,
+                17
+            ],
+            "area": 272,
+            "iscrowd": 0
+        },
+        {
+            "id": 6998,
+            "image_id": 1282,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    7354,
+                    5,
+                    123,
+                    10,
+                    118,
+                    11,
+                    117,
+                    11,
+                    114,
+                    14,
+                    113,
+                    15,
+                    113,
+                    15,
+                    113,
+                    15,
+                    113,
+                    16,
+                    113,
+                    15,
+                    114,
+                    13,
+                    115,
+                    12,
+                    116,
+                    11,
+                    117,
+                    10,
+                    121,
+                    7,
+                    7230
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                57,
+                54,
+                15,
+                16
+            ],
+            "area": 240,
+            "iscrowd": 0
+        },
+        {
+            "id": 6999,
+            "image_id": 1282,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    2452,
+                    7,
+                    121,
+                    10,
+                    118,
+                    10,
+                    118,
+                    10,
+                    116,
+                    12,
+                    114,
+                    14,
+                    114,
+                    15,
+                    113,
+                    15,
+                    113,
+                    15,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    12,
+                    116,
+                    10,
+                    118,
+                    10,
+                    123,
+                    5,
+                    12132
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                19,
+                16,
+                15,
+                15
+            ],
+            "area": 225,
+            "iscrowd": 0
+        },
+        {
+            "id": 7000,
+            "image_id": 1282,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    2452,
+                    7,
+                    121,
+                    10,
+                    118,
+                    10,
+                    118,
+                    10,
+                    116,
+                    12,
+                    114,
+                    14,
+                    114,
+                    15,
+                    113,
+                    15,
+                    113,
+                    15,
+                    115,
+                    13,
+                    115,
+                    13,
+                    115,
+                    12,
+                    116,
+                    10,
+                    118,
+                    10,
+                    123,
+                    5,
+                    12132
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                19,
+                16,
+                15,
+                15
+            ],
+            "area": 225,
+            "iscrowd": 0
+        },
+        {
+            "id": 7001,
+            "image_id": 1282,
+            "category_id": 1,
+            "segmentation": {
+                "counts": [
+                    14720,
+                    5,
+                    123,
+                    6,
+                    122,
+                    11,
+                    117,
+                    11,
+                    117,
+                    11,
+                    117,
+                    11,
+                    117,
+                    11,
+                    117,
+                    10,
+                    118,
+                    9,
+                    119,
+                    10,
+                    118,
+                    10,
+                    118,
+                    9,
+                    119,
+                    9,
+                    119
+                ],
+                "size": [
+                    128,
+                    128
+                ]
+            },
+            "bbox": [
+                115,
+                0,
+                13,
+                11
+            ],
+            "area": 143,
+            "iscrowd": 0
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "activated molecule"
+        }
+    ]
+}

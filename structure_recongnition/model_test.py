@@ -13,7 +13,7 @@ model.load_state_dict(state_dict['model'])
 model.eval()
 
 # Load an image and its annotations
-# Replace with your own image and annotation loading code
+# Replace with your own image and annotation loading data_generate
 image_path = "D:\\project\\phase_structure\\phase_structure_recognition\\faster_rcnn_stem_dataset\\test"
 output_path = 'F:\\faster_rcnn_output'
 os.makedirs(output_path, exist_ok=True)

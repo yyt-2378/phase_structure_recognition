@@ -141,7 +141,7 @@ def main(args):
 
     device = torch.device(args.device)
 
-    # Data loading code
+    # Data loading data_generate
     print("Loading data")
 
     dataset, num_classes = get_dataset(args.dataset, "trainval", get_transform(train=True), args.data_path, args.num_classes)

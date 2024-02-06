@@ -2,7 +2,7 @@ import os
 import glob
 import random
 import pickle
-from SR_model.data import common
+from utils.data import common
 
 import numpy as np
 import imageio
@@ -11,7 +11,7 @@ import torch.utils.data as data
 from torchvision import transforms
 
 
-class DCVAESRDataset(data.Dataset):
+class DIVAESRDataset(data.Dataset):
     def __init__(self, args, name='', split='trainval', train=True, benchmark=False):
         self.args = args
         self.name = name

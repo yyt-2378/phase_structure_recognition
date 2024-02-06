@@ -3,7 +3,6 @@ import math
 import torch
 from torch import optim
 import pytorch_lightning as pl
-from VAE_module.vae_models import VanillaVAE
 import torchvision.utils as vutils
 from preprocess_model.preprocess_model_loss import loss_function_total
 

@@ -285,17 +285,9 @@ class CocoDetection(torchvision.datasets.CocoDetection):
 
 
 def get_coco(root, image_set, transforms, mode='instances'):
-    # anno_file_template = "{}_{}2017.json"
-    # PATHS = {
-    #     "trainval": ("train2017", os.path.join("annotations", anno_file_template.format(mode, "trainval"))),
-    #     "val": ("val2017", os.path.join("annotations", anno_file_template.format(mode, "val"))),
-    #     # "trainval": ("val2017", os.path.join("annotations", anno_file_template.format(mode, "val")))
-    # }
-
     PATHS = {
-        # "trainval": ("trainval", os.path.join("annotations", 'instances_trainval.json')),
-        "test":  ("test", os.path.join("annotations", 'annotation.json')),
-        "trainval": ("trainval_sr", os.path.join("annotations", 'annotation.json'))
+        "test":  ("test_1000000dose", os.path.join("annotations", 'test_1000000dose_annotation.json')),
+        "trainval": ("trainval_sr", os.path.join("annotations", 'trainval_annotation.json'))
     }
 
     t = [ConvertCocoToBox()]

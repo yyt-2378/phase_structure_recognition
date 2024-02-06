@@ -1,5 +1,5 @@
 import argparse
-import SR_model.template as template
+import utils.template as template
 
 
 parser = argparse.ArgumentParser(description='EDSR and MDSR')
@@ -19,9 +19,9 @@ parser.add_argument('--n_GPUs', type=int, default=1,
 
 # Data specifications
 parser.add_argument('--config', '-c', dest="filename", metavar='FILE', help='path to the config file',
-                    default='D:\\project\\phase_structure\\phase_structure_recognition\\preprocess_model\\configs\\vae.yaml')
+                    default='D:\\project\\DIVAESR\\phase_structure_recognition\\preprocess_model\\configs\\vae.yaml')
 parser.add_argument('--dir_data', type=str,
-                    default='D:\\project\\phase_structure\\phase_structure_recognition\\STEM_DCVAESR_Data',
+                    default='/root/autodl-tmp/phase_structure_recognition/STEM_Data',
                     help='dataset directory')
 parser.add_argument('--dir_demo', type=str, default='../test',
                     help='demo image directory')
@@ -87,11 +87,11 @@ parser.add_argument('--reduction', type=int, default=16,
 # Training specifications
 parser.add_argument('--reset', action='store_true',
                     help='reset the training')
-parser.add_argument('--test_every', type=int, default=1000,
+parser.add_argument('--test_every', type=int, default=100,
                     help='do test per every N batches')
-parser.add_argument('--epochs', type=int, default=300,
+parser.add_argument('--epochs', type=int, default=120,
                     help='number of epochs to trainval')
-parser.add_argument('--batch_size', type=int, default=2,
+parser.add_argument('--batch_size', type=int, default=16,
                     help='input batch size for training')
 parser.add_argument('--split_batch', type=int, default=1,
                     help='split the batch into smaller chunks')
@@ -117,7 +117,7 @@ parser.add_argument('--resume', type=int, default=0,
                     help='resume from specific checkpoint')
 parser.add_argument('--save_models', action='store_true',
                     help='save all intermediate models')
-parser.add_argument('--print_every', type=int, default=100,
+parser.add_argument('--print_every', type=int, default=1000,
                     help='how many batches to wait before logging training status')
 parser.add_argument('--save_results', action='store_true',
                     help='save output results')
