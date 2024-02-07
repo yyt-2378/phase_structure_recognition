@@ -50,6 +50,24 @@ To begin training the preprocess model:
 1. **Understanding Training Parameters**: Navigate to the `structure_recognition` directory and inspect the `train.py` script, which contains details on all the model's training parameters.
 2. **Dataset Preparation**: To train on your own dataset, ensure it adheres to the format in the `faster_rcnn_stem_dataset` directory.
 
+### Model Weights Download and Testing Instructions
+
+You can download the corresponding weights for the models and run them using the `test_image_ml_framework.py` script. Below are the links to download the weights for the specific models:
+
+- For Faster R-CNN model weights, download from [this link](https://drive.google.com/drive/folders/1P60SL8MKod3kxL4OmkqVlzCfrLXydZgl?usp=sharing).
+- For DIVAESR model weights, download from [this link](https://drive.google.com/drive/folders/1TG5OyvcmJ9sTD_H7OAC8U3ue36ZF8V2u?usp=sharing).
+
+Please create corresponding folders to store the model weights after downloading them. Then, update the paths to the model weights in the `test_image_ml_framework.py` script to reflect where you have stored the weights on your local machine.
+
+#### Steps to Run the Test:
+
+1. Download the model weights using the links provided above.
+2. Create folders for each model's weights on your local machine.
+3. Update the `test_image_ml_framework.py` script with the correct paths to the model weights.
+4. Run the `test_image_ml_framework.py` script to test the models with the downloaded weights.
+
+This will allow you to test the models with the provided weights effectively.
+
 ## 🤲 How to Contribute
 
 We heartily welcome all individuals interested in electron dose point identification and tracking methodologies to contribute. Engage by:
