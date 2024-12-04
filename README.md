@@ -17,10 +17,16 @@ This repository focuses on researching and developing methodologies for identify
 To start working with this repository and utilize the methodologies effectively, follow the steps outlined below:
 
 ### 0. Environment Setup
+
 Before diving into the methodologies, it's crucial to set up your working environment to ensure compatibility and proper functioning of all tools.
-Key steps:
-🛠 Install Required Packages: Ensure your Python environment is ready by installing all required packages using: pip install -r requirements.txt
-This command will install all the necessary dependencies as listed in the requirements.txt file. 
+
+#### Key steps:
+
+- 🛠 **Install Required Packages**: Ensure your Python environment is ready by installing all required packages using:
+  ```bash
+  pip install -r requirements.txt
+  ```
+  This command will install all the necessary dependencies as listed in the `requirements.txt` file.
 
 ### 1. Dataset Organization
 
