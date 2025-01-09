@@ -30,7 +30,7 @@ Before diving into the methodologies, it's crucial to set up your working enviro
 
 ### 1. Dataset Organization
 
-Before applying the methodologies, it's essential to organize the dataset properly. Refer to the detailed instructions provided in [`stem_dataset/dataset_prepare.md`](./stem_dataset/dataset_prepare.md) for comprehensive information on how to prepare and structure the dataset.
+Before applying the methodologies, it's essential to organize the dataset properly. Refer to the detailed instructions provided in [`faster_rcnn_stem_dataset/dataset_prepare.md`](./faster_rcnn_stem_dataset/dataset_prepare.md) for comprehensive information on how to prepare and structure the dataset.
 
 #### Key steps:
 
@@ -40,7 +40,7 @@ Before applying the methodologies, it's essential to organize the dataset proper
 
 ### 2. Detailed Labeling Instructions
 
-For a thorough guide on labeling content and best practices, consult the [`dataset_prepare.md`](./stem_dataset/dataset_prepare.md) document. It covers the specifics of labeling data for this project, ensuring consistency and accuracy in the dataset.
+For a thorough guide on labeling content and best practices, consult the [`dataset_prepare.md`](./faster_rcnn_stem_dataset/dataset_prepare.md) document. It covers the specifics of labeling data for this project, ensuring consistency and accuracy in the dataset.
 
 📝 **Note**: After completing the above steps, ensure your data is placed into the [`stem_dataset`](./stem_dataset/) in the specified format.
 
