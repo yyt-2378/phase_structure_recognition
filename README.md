@@ -22,7 +22,7 @@ Before diving into the methodologies, it's crucial to set up your working enviro
 
 #### Key steps:
 
-- 🛠 **Install Required Packages**: Ensure your Python environment is ready by installing all required packages using:
+- 🛠 **Install Required Packages**: Ensure your Python environment is ready by installing all the required packages. The environment must be using Python version greater than 3.8 and must be able to run Torch version 2.0.1.:
   ```bash
   pip install -r requirements.txt
   ```
