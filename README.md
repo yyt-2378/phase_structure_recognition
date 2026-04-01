@@ -80,6 +80,10 @@ Please create corresponding folders to store the model weights after downloading
 
 This will allow you to test the models with the provided weights effectively.
 
+## ACKNOWLEDGMENTS
+
+Supported by the Key Research and Development Program of Inner Mongolia and Ordos Laboratory (Ordoslab-2024013).
+
 ## 🤲 How to Contribute
 
 We heartily welcome all individuals interested in electron dose point identification and tracking methodologies to contribute. Engage by:
